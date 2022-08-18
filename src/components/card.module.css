@@ -1,0 +1,75 @@
+.shopping{
+    width: 80%;
+    /* height: 600px; */
+    /* border: 1px solid gray; */
+    margin:90px  auto ;
+
+    
+}
+.backImg{
+    width: 100%;
+    height: 300px;
+    margin:90px  auto ;
+    background-image: url(./img/back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-position: center;
+     background-attachment: fixed;
+}
+.shopTittle{
+    width: 100%;
+    height: 80px;
+    /* background-color: rgb(236, 236, 236); */
+    background-color:#D7DCD6;
+    color: rgb(48, 88, 48);
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.cardDiv1{
+     width: 100%;
+     height: 120px;
+     border-bottom: 1px solid rgb(241, 241, 241);
+     margin: 70px 0px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     justify-content: space-around;
+}
+.product img{
+    width: 130px;
+    height: 110px;
+    border-radius: 5px;
+
+}
+.quantity{
+    display: flex;
+    align-items: center;
+}
+.quantity button{
+    padding: 10px;
+    margin: 0px 10px;
+    border-radius: 3px;
+    border: 1px solid rgb(226, 224, 224);
+    background-color: transparent;
+    cursor: pointer;
+}
+.quantity button:hover{
+    color: white;
+    background-color: #2a3c32;
+    transition: 1s;
+}
+.remove button{
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid rgb(226, 224, 224);
+    background-color: transparent;
+    cursor: pointer;
+}
+.remove button:hover{
+    color: white;
+    background-color: #2a3c32;
+    transition: 1s;
+}

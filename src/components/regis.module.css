@@ -1,0 +1,232 @@
+.bigDiv{
+    width: 100%;
+    height: 520px;
+    /* margin-top: 120px; */
+   
+ 
+ 
+}
+.middleDiv{
+    width: 100%;
+    height: 500px;
+    /* border: 1px solid black; */
+    margin: 80px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(./img/registerImg.jpg); */
+    background-image: url("./video/pexels-cottonbro-9725293.jpg");
+  
+    /* background-image: url("./img/pexels-kseniya-budko-7941158\ \(1\).jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+
+}
+.middleDiv1{
+    width: 100%;
+    height: 500px;
+    /* border: 1px solid black; */
+    margin: 80px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: url("./video/pexels-cottonbro-9725293.jpg");
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ margin-bottom: -30px;
+ /* transform: rotate(180deg); */
+
+}
+/* .transform{
+    transform: rotate(-180deg);
+} */
+.littleDiv1{
+    width: 55%;
+    height: 455px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgb(0,0,0.5);
+    background-color: white;
+    color: #2a3c32;
+    text-align: left;
+}
+/* .littleDiv2{
+    width: 90%;
+    height:430px;
+ 
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgb(0,0,0.5);
+} */
+.regisInpDiv1{
+    width: 120%;
+    height: 445px;
+    border: 1px solid #2a3c32;
+    border-left: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-image: url("./video/pexels-cottonbro-9725293.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.ul li{
+    display: flex;
+    font-size: 13px;
+    margin: 5px 0px;
+}
+
+
+
+.littleDiv1 .button1{
+    padding: 5px 23px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border: 1px solid white;
+    /* background-color:  rgb(48, 88, 48); */
+    background-color: #2a3c32;
+    
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+    color: white;
+    transition: 1s;
+    margin: 30px 0px;
+}
+.littleDiv1 .button2 {
+    padding: 5px 28px;
+    margin-top: 20px;
+    margin-left: 5px;
+    /* border: 1px solid rgb(48, 88, 48); */
+    /* background-color:  rgb(48, 88, 48); */
+    background-color: #2a3c32;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s;
+}
+.b2{
+    padding: 5px 38px !important;
+}
+.button2 a{
+    color: white;
+
+}
+.littleDiv1 .button1:hover{
+background-color: white;
+color:#2a3c32;
+border: 1px solid #2a3c32;
+
+transition: 1s;
+}
+.littleDiv1 .button2:hover {
+    background-color: white;
+    color:#2a3c32;
+    border: 1px solid #2a3c32;
+transition: 1s;
+
+    }
+    .button2:hover a{
+        color:#2a3c32;
+    }
+.littleDiv1 form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 90%;
+    height: 90%;
+    padding: 20px 40px;
+
+}
+.littleDiv1 h3{
+    margin-left: -5px;
+}
+
+.littleDiv1 form label{
+    padding: 5px 0px;
+}
+.littleDiv1 form label input{
+    border: none;
+    border-bottom: 1px solid #2a3c32;
+    background-color: transparent;
+    width: 187px;
+    color: #2a3c32;
+    margin-left: 10px;
+    /* padding-left: 10px; */
+}
+
+
+.littleDiv1 ::placeholder{
+    color:#2a3c32;
+    
+}
+.littleDiv1 form label input:focus::placeholder{
+
+    opacity: 0;
+}
+
+.or{
+    width:75%;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.or::after{
+    content: "";
+    width: 85px;
+   
+    border-top: 1px solid gray;
+    position: absolute;
+    right: 0px;
+}
+.or::before{
+    content: "";
+    width: 85px;
+    border-top: 1px solid gray;
+    position: absolute;
+    left: 0px;
+}
+
+.qulluqK2{
+    width: 100%;
+    height: 130px;
+    color: #2e513d;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+    margin-left: 35px; 
+}
+.qulluqK2 span{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #d7dcd6;
+    background-color: #d7dcd6;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 11px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+.qulluqK2 span:hover{
+    border: 1px solid #2e513d;
+    background-color: #2e513d;
+    color: #d7dcd6;
+    transition: 0.8s;
+}

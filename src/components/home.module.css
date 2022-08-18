@@ -1,0 +1,716 @@
+.container {
+  padding: 0px 30px !important;
+}
+.bigdiv {
+  width: 100%;
+  height: 590px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 20px;
+  background-image: url(./img/back.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.bigdivYazi {
+  width: 60%;
+  height: 200px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 10px;
+  font-family: 'Ibarra Real Nova', serif !important;
+}
+.bigdivYazi p {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.bigdivYazi span {
+  font-size: 25px;
+}
+.bigVideo{
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: 1px solid rgb(220, 216, 216);
+}
+.mainVideo{
+  width: 56%;
+  height: 400px;
+  display: flex;
+}
+.yaziVideo{
+  width: 40%;
+  height: 400px;
+  padding-right: 40px;
+}
+/* .mainVideo1{
+  width: 100%;
+  height: 100%;
+} */
+.mainVideo video{
+  width: 100%;
+  height: 100%;
+}
+
+
+.video1 {
+  width: 60%;
+  height: 450px;
+  border: 1px solid black;
+}
+.video1 video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.video2 {
+  width: 30%;
+  height: 290px;
+  border: 1px solid black;
+}
+
+.yaziVideo h6{
+  font-size: 13px;
+  padding: 10px 0px;
+}
+.yaziVideo h2{
+  font-size: 25px;
+  padding: 10px 0px;
+}
+.yaziVideo p{
+  padding: 15px 0px;
+}
+.yaziVideo button{
+  width: 40%;
+  height: 46px;
+  border: 1px solid rgb(15, 50, 15);
+  background-color: rgb(15, 50, 15);
+  color: white;
+  border-radius: 5px;
+  margin: 10px 0px;
+  transition: 0.8s;
+  cursor: pointer;
+}
+.yaziVideo button:hover{
+  background-color: white;
+  color: rgb(15, 50, 15);
+  transition: 0.8s;
+}
+.why {
+  width: 100%;
+  height: 120px;
+  font-family: "Source Serif Pro", serif;
+  /* color: #4e5550; */
+
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  font-size: 36px;
+}
+.line {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.line h2 {
+  width: 10%;
+  height: 2px;
+  background-color: #4e5550;
+}
+.mainWhy {
+  width: 100%;
+  height: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+.mainWhy1 {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mainWhy1 img {
+  transition: 0.7s !important;
+  cursor: pointer;
+}
+.mainWhy1 img:hover {
+  transform: scale(1.2) !important;
+  transition: 0.7s !important;
+  cursor: pointer;
+}
+.mainWhy1 span {
+  margin-top: 20px;
+  text-align: center;
+}
+.bigdiv1 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(241, 238, 238);
+  /* background-color: black;
+    color: white; */
+}
+.div1 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  /* text-align: left; */
+  /* padding: 20px; */
+padding: 22px 35px ;
+font-size: 15px;
+
+  /* border: 1px solid black; */
+}
+.divFont{
+  font-size: 13px !important;
+}
+.div2 {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  /* border: 1px solid  red; */
+}
+
+.videoDiv1 {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* .block{
+  display: none;
+} */
+
+
+.price1 {
+  width: 100%;
+  height: 490px;
+  /* background-color: #f9f8f9; */
+  display: flex;
+  justify-content: space-between;
+padding: 0px 40px !important;
+
+  align-items: center;
+  font-size: 15px;
+}
+.pri1 {
+  width: 40%;
+  height: 330px;
+  margin: 5px 0px;
+}
+.pri2 {
+  width: 55%;
+  height: 400px;
+  background-color: rgb(40, 82, 40);
+
+}
+.h1 {
+  font-size: 25px;
+  display: flex;
+}
+.h1 p {
+  width: 35%;
+  height: 3px;
+  background-color: rgb(48, 88, 48);
+  margin-top: 30px;
+  margin-left: 20px;
+
+}
+.h2 {
+  margin-left: 70px;
+  margin-top: 20px;
+  font-size: 14px;
+
+}
+/* .h2 p{
+    color: red;
+    margin-left: 0px;
+} */
+.s1 {
+  color: rgb(103, 100, 100);
+  padding: 20px 0px;
+}
+.h2 button {
+  margin: 5px 0px;
+  width: 35%;
+  height: 50px;
+  border-radius: 5px;
+  background-color: rgb(48, 88, 48);
+  color: white;
+  cursor: pointer;
+  border: 1px solid white;
+  transition: 1s;
+}
+.h2 button a {
+  color: white;
+}
+.h2 button:hover {
+  border: 1px solid rgb(15, 92, 15);
+  background-color: white;
+  /* transition: 1s; */
+  color: rgb(15, 92, 15);
+}
+.h2 button:hover a {
+  color: rgb(15, 92, 15);
+}
+.pri2 img {
+  height: 100%;
+  width: 100%;
+}
+
+.cardDiv1 {
+  width: 100%;
+  height: 450px;
+  border: 1px solid rgb(242, 242, 242);
+  /* border: 1px solid red; */
+  position: relative;
+  margin: 20px 0px;
+  border-radius: 5px;
+}
+.img {
+  width: 100%;
+  height: 280px;
+}
+.img img {
+  width: 100%;
+  height: 280px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.img {
+  position: relative;
+}
+.block {
+  display: none;
+}
+.img:hover .block {
+  display: block;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.cardMini1 {
+  width: 100%;
+  height: 130px;
+  position: absolute;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  color: #2e513d;
+}
+
+.cardMini1 p,
+h3 {
+  padding: 5px;
+}
+.cardButton {
+  width: 100%;
+  height: 50px;
+  /* border: 1px solid #2e513d; */
+  display: flex;
+  margin-top: 20px;
+}
+.btn2 {
+  width: 100%;
+  height: 45px;
+  background-color: #2e513d;
+  border: 1px solid #2e513d;
+  color: white;
+  cursor: pointer;
+  transition: 1s;
+  margin-top: 15px;
+  font-size: 18px;
+  overflow: hidden;
+}
+.btn2 i {
+  /* opacity: 0; */
+  transition: 0.5s;
+  transform: translateY(40px);
+}
+.btn2:hover {
+  background-color: transparent;
+  color: #2e513d;
+  transition: 0.3s;
+}
+.btn2:hover i {
+  opacity: 1;
+  transition: 0.7s;
+  transform: translateY(0);
+  color: #2e513d;
+}
+/* .btn2:hover p {
+  transform: translateX(10px);
+  transition: 0.8s;
+} */
+
+.cardMini1 p,
+h3 {
+  padding: 5px;
+}
+
+.overlay {
+  width: 100%;
+  height: 590px;
+  /* background-image: url("https://images.pexels.com/photos/2959604/pexels-photo-2959604.jpeg?auto=compress&cs=tinysrgb&w=600"); */
+  background-image: url("https://bloomscape.com/wp-content/uploads/2022/07/BloomscapeLocation5769.jpg?ver=913351");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  /* align-items: center; */
+  position: relative;
+  z-index: 1;
+  /* text-align: center; */
+  font-size: 20px;
+}
+.overlay2{
+  background-image: url("./back/pexels-designecologist-1005058.jpg");
+}
+.overlay1{
+  background-image: url("./back/pexels-ksenia-chernaya-3952031.jpg");
+}
+.font{
+  font-size: 46px;
+  font-weight: 100;
+}
+.overlay::after {
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  opacity: 0.5;
+  position: absolute;
+  z-index: -1;
+}
+.overlayWrite {
+  width: 55%;
+  height: 260px;
+  color: white;
+  position: absolute;
+  z-index: 1;
+  margin: 0px 25px;
+  /* border-left: 2px solid white; */
+  padding: 30px 10px;
+  /* border-bottom: 2px solid white; */
+}
+/* .overlayWrite::before{
+  content: "";
+  position: absolute;
+  width: 95%;
+  height: 110%;
+  border-left: 2px solid white;
+  border-bottom: 2px solid white;
+  top: -40px;
+  left: -10px;
+} */
+.button1 {
+  width: 20%;
+  height: 45px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border-radius: 20px;
+  cursor: pointer !important;
+  /* background-color: transparent; */
+  background-color: #d7dcd6;
+
+  color: #2e513d;
+  border: 1px solid white;
+  transition: 0.8s;
+}
+.button1 a {
+  color: #2e513d;
+}
+.button2 a {
+  color: #2e513d;
+}
+.button1:hover{
+  color: white;
+  background-color: red;
+}
+.button1:hover a {
+  color: white!important;
+}
+.button2:hover a {
+  color: white;
+}
+.button1:hover.button1 {
+  /* transition: 0.8s; */
+  border: 3px solid rgb(23, 39, 23);
+  background-color: rgb(23, 39, 23);
+  cursor: pointer;
+}
+.button2 {
+  width: 20%;
+  height: 45px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border-radius: 20px;
+  cursor: pointer !important;
+  background-color: #d7dcd6;
+
+  /* background-color: transparent; */
+  /* color: white; */
+  border: 1px solid white;
+  transition: 0.8s;
+}
+.button2:hover.button2 {
+  /* transition: 0.8s; */
+  background-color: rgb(23, 39, 23);
+  border: 1px solid rgb(23, 39, 23);
+  cursor: pointer;
+}
+
+.overlayWrite p {
+  padding-top: 20px;
+}
+
+.overlay video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.swiper32{
+  min-height: 600px;
+  margin: 0px auto;
+  width: 78%;
+}
+
+@media (min-width: 992px) and (max-width: 1240px) {
+    .div1{
+        font-size: 13px;
+    }
+    .price1{
+        font-size: 15px;
+    }
+    .h1{
+        font-size: 20px;
+    }
+ 
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .button1 {
+    width: 30%;
+  }
+  .button2 {
+    width: 30%;
+  }
+  .overlay{
+    height: 420px;
+  }
+  .overlayWrite{
+    font-size:13px ;
+    height: 280px;
+  }
+  .why{
+    font-size: 30px;
+  }
+  .mainWhy1 img{
+    width: 55%;
+
+  }
+  .mainWhy1 span{
+    font-size: 14px;
+  }
+
+  .div1{
+    font-size: 14px;
+  }
+  .swiper32{
+    width: 70%;
+  }
+  .cardDiv1{
+    width: 100%;
+  }
+  .price1{
+    font-size: 12px;
+}
+.h1{
+    font-size: 15px;
+}
+.h2 button{
+width: 49%;
+font-size: 14px;
+}
+.pri2{
+    width: 45%;
+}
+
+
+
+}
+@media (min-width: 630px) and (max-width: 768px) {
+    .button1 {
+        width: 37%;
+      }
+      .button2 {
+        width: 37%;
+      }
+      .overlay{
+        height: 390px;
+      }
+      .overlayWrite{
+        font-size:12px ;
+        height: 250px;
+      }
+      .why{
+        font-size: 26px;
+      }
+      .mainWhy{
+        width: 100%;
+        height: 700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .mainWhy1{
+        width: 100%;
+        padding: 10px 0px;
+        
+      }
+      .mainWhy1 span{
+        font-size: 12px;
+        padding: 0px 60px;
+      }
+    
+      .div1{
+        font-size: 14px;
+      }
+      .swiper32{
+        width: 60%;
+      }
+      .cardDiv1{
+        width: 90%;
+      }
+      .price1{
+        font-size: 10px;
+    }
+    .h1{
+        font-size: 14px;
+    }
+    .h2 button{
+    width: 50%;
+    height: 40px;
+    font-size: 10px;
+    }
+    .pri2{
+        width: 45%;
+    }
+    
+   
+}
+@media only screen and (max-width: 630px) {
+    .button1 {
+        width: 39%;
+        height: 35px;
+        font-size: 10px;
+      }
+      .button2 {
+        width: 39%;
+        font-size: 10px;
+        height: 35px;
+
+
+      }
+      .overlay{
+        height: 390px;
+      }
+      .overlayWrite{
+        font-size:10px ;
+        height: 220px;
+      }
+      .why{
+        font-size: 22px;
+      }
+      .mainWhy{
+        width: 100%;
+        height: 570px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .mainWhy1{
+        width: 100%;
+        padding: 10px 0px;
+        
+      }
+      .mainWhy1 img{
+        width: 25%;
+      }
+      .mainWhy1 span{
+        font-size: 10px;
+        padding: 0px 80px;
+      }
+      .bigdiv1{
+        margin-top: 50px;
+      }
+      .div1{
+        font-size: 10px;
+      }
+      .swiper32{
+        width: 60%;
+      }
+      .cardDiv1{
+        width: 100%;
+      }
+      .price1{
+        /* font-size: 10px; */
+        height: 650px;
+        display: flex;
+        flex-direction: column;
+    }
+    .pri1{
+        width: 100%;
+        height: 200px;
+        padding: 0px 50px;
+        font-size: 10px;
+    }
+    .h1{
+        font-size: 14px;
+    }
+    .h2 button{
+    width: 40%;
+    height: 39px;
+    font-size: 12px;
+    }
+    .pri2{
+        width: 80%;
+        height: 340px;
+        margin-top: 20px;
+    }
+    .none{
+      display: none;
+    }
+}

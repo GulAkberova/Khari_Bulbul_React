@@ -1,0 +1,370 @@
+.footer{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    background-color: #d7dcd6;
+    background-color: #1e351b;
+
+    color: rgb(48, 88, 48);
+    color: white;
+    margin-top: 80px;
+}
+.email{
+    width: 100%;
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.email input{
+    width: 27%;
+    height: 48px;
+    padding: 0px 5px;
+    display: flex;
+    justify-content: flex-start;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+.email button{
+    padding: 10px 40px;
+    margin-top: 10px;
+    cursor: pointer;
+    border: 1px solid #d7dcd6;
+    background-color: rgb(48, 88, 48);
+    color: white;
+    transition: 0.8s;
+    border-radius: 3px;
+
+}
+.email button:hover{
+    border: 1px solid rgb(48, 88, 48);
+    background-color: white;
+    color: rgb(48, 88, 48);
+    transition: 0.8s;
+}
+
+.foot1{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+   
+
+}
+
+.ul{
+    display: flex;
+ 
+    transition: 0.5s;
+}
+.ul li{
+    padding: 0px 10px;
+    cursor: pointer;
+    transition: 0.6s;
+    position: relative;
+}
+.ul li::after{
+    display: block;
+    content: "";
+    width:0%;
+    height: 0.1px;
+    border-bottom: 1px solid rgb(48, 88, 48) ;
+    position: absolute;
+    bottom: 0px;
+    left:10px;
+    transition: 0.5s;
+   
+}
+.ul li:hover::after{
+    width: 30%;
+    transition: 0.5s;
+    transform: scale(1.2);
+ 
+}
+
+
+.ul1 {
+    display: flex;
+}
+.ul1 li{
+   padding: 0px 7px;
+   transition: 1s;
+   font-size: 20px;
+  
+  
+}
+.ul1 li:hover{
+    transform: translateY(-15px);
+    transition: 1s;
+    color:   rgb(15, 92, 15);
+    cursor: pointer;
+}
+
+.made{
+    width: 100%;
+    height: 30px;
+}
+.made ul{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+.made ul li i{
+    color: red;
+    animation-name: heart;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    transform: scale(0.3);
+}
+@keyframes heart {
+    0%{
+    transform: scale(0.3);
+     
+    }
+    100%{
+    transform: scale(1);
+    transition: 1s;
+         
+    }
+}
+
+
+.mainFoot{
+    width: 100%;
+    height: 400px;
+    background-color: #d7dcd6;
+    /* background-color: #1e351b; */
+/* color: white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+     /* padding: 0px -60px!important; */
+
+}
+.mainFootDiv{
+    width: 92%;
+    height: 330px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    justify-content: space-between;
+     /* padding: 0px 40px!important; */
+
+}
+.footDiv1{
+    width: 33%;
+    height: 380px;
+}
+.logo{
+    cursor: pointer;
+    font-family: 'Parisienne', cursive;
+    color: rgb(48, 88, 48);
+    font-size: 30px;
+    margin: 10px 0px;
+    
+}
+
+.footDiv1Contact{
+ margin-top: 30px;
+ line-height: 35px;
+}
+.footDiv2{
+    width: 17%;
+    height: 380px;
+}
+.footDiv2 ul li a{
+    color: rgb(48, 88, 48);
+}
+.footDiv2 p{
+    margin: 10px 0px;
+}
+.footDiv2 ul li{
+  padding: 2px 0px;
+  cursor: pointer;
+  position: relative;
+}
+.footDiv2 ul li::after{
+    display: block;
+    content: "";
+    width:0%;
+    height: 0.1px;
+    border-bottom: 1px solid rgb(48, 88, 48) ;
+    position: absolute;
+    bottom: 0px;
+    left:3px;
+    transition: 0.5s;
+   
+}
+.footDiv2 ul li:hover::after{
+    width: 10%;
+    transition: 0.5s;
+    transform: scale(1.2);
+    color: rgb(23, 63, 23);
+ 
+}
+.footSebeke{
+    margin-top: 20px;
+    /* margin-left: 40px; */
+    display: flex;
+}
+.footSebeke li{
+    padding-right: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+.footSebeke li:hover{
+    transform: translateY(-15px);
+    transition: 0.5s;
+}
+
+.made{
+    width: 100%;
+    height: 30px;
+}
+.made ul{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+.made ul li i{
+    color: red;
+    animation-name: heart;
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    transform: scale(0.3);
+}
+@keyframes heart {
+    0%{
+    transform: scale(0.3);
+     
+    }
+    100%{
+    transform: scale(1);
+    transition: 1s;
+         
+    }
+}
+
+
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1240px) {
+
+}
+@media (min-width: 768px) and (max-width: 992px) {
+    .mainFoot{
+        height: 360px;
+        font-size: 12px;
+    }
+    .mainFootDiv{
+        height: 280px;
+    }
+    .catdirilma span{
+        font-size: 14px;
+    }
+    .melumat{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+      
+    }
+    .melumat1{
+        width: 45%;
+    }
+
+}
+@media (min-width: 600px) and (max-width: 768px) {
+    .mainFoot{
+        height: 310px;
+        font-size: 10px;
+    }
+    .mainFootDiv{
+        height: 250px;
+    }
+    .catdirilma span{
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 600px) {
+     .mainFoot{
+        font-size: 10px;
+     }
+     .mainFootDiv{
+        display: flex;
+        flex-direction: column;
+     }
+     .footDiv1{
+        width: 100%;
+        height: 120px;
+     }
+     .footDiv1Contact{
+        display: none;
+     }
+     .footDiv2{
+        width: 100%;
+        height: 80px;
+     }
+     .footDiv2 ul{
+        display: flex;
+     }
+     .footDiv2 ul li{
+        padding-right:15px;
+     }
+     .catdirilma span{
+        font-size: 11px;
+    }
+    
+}
+
+
+.catdirilma{
+    width: 100%;
+    height: 120px;
+    border: 1px solid rgb(222, 221, 221);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d7dcd6;
+    margin:20px 0px;
+    font-size: 18px;
+}
+.melumat{
+    width: 100%;
+    height: 370px;
+    padding: 0px 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.melumat1{
+    width: 23%;
+    height: 260px;
+    display: flex;
+}
+.melumatyazi{
+    width: 90%;
+    height: 350px;
+}
+.melumatyazi p{
+    font-size: 14px;
+    margin: 10px 0px;
+}

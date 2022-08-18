@@ -1,0 +1,430 @@
+
+.overlay {
+    width: 100%;
+    height: 400px;
+    /* background-image: url(./img/pexels-kseniya-budko-7941158\ \(1\).jpg); */
+    background-image: url("./video/pexels-teona-swift-6913717.jpg");
+
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+  }
+ 
+  .overlay::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.3;
+    position: absolute;
+    z-index: -1;
+  }
+  .overlayWrite {
+    color: white;
+    position: absolute;
+    z-index: 1;
+  }
+.name{
+    width: 100%;
+  font-size: 30px;
+}
+.name span{
+    width: 38%;
+    height: 2px;
+    background-color: white;
+    border-bottom: 1px solid white;
+   position: absolute;
+   left: 36%;
+
+}
+.bigdiv1{
+    width: 98%;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: flex-start;
+    color: #2e513d;
+    margin-top: 50px;
+}
+.div1{
+    width: 22%;
+    /* height: 400px; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    justify-content: space-between;
+    background-color:#D7DCD6;
+    color: rgb(48, 88, 48);
+    margin: 20px auto;
+}
+.filterDiv{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px;
+    background-color: #2e513d;
+    color: white;
+   
+}
+.filterDiv p{
+    font-size: 21px;
+}
+.filterDiv span{
+    font-size: 11px;
+    position: relative;
+    cursor: pointer;
+}
+.filterDiv span::after{
+    content: "";
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+ 
+
+}
+.filterUL{
+    width: 100%;
+    padding: 18px 10px;
+    font-size: 15px;
+    
+}
+.filterLI{
+    width: 100%;
+    position: relative;
+    cursor: pointer;
+    padding: 5px 0px;
+}
+.filterLI p i{
+    position: absolute;
+    right: 0;
+    top: 3px;
+    transition: 0.8s;
+
+}
+/* .filterLI:hover i{
+    transform: rotate(180deg);
+    transition: 0.8s;
+} */
+.filterDropUl{
+    width: 100%;
+    height: 100px;
+    margin-left: 0px;
+    margin-top: 15px;
+    /* visibility: hidden; */
+    line-height: 33px;
+    opacity: 1;
+    transition: 0.8s;
+    font-size: 12px;
+   
+
+}
+/* .filterLI:hover .filterDropUl{
+    opacity: 1;
+    visibility: visible;
+    height: 100px;
+    transition: 0.8s;
+    
+} */
+.filterDropUl li{
+    position: relative;
+}
+.filterDropUl li::after{
+    display: block;
+    content: "";
+    width:0%;
+    height: 0.1px;
+    border-bottom: 1px solid rgb(48, 88, 48) ;
+    position: absolute;
+    bottom: 0px;
+    left:4px;
+    transition: 0.5s;
+   
+}
+.filterDropUl li:hover::after{
+    width: 10%;
+    transition: 0.5s;
+    transform: scale(1.2);
+ 
+}
+.div1 button{
+    width: 80%;
+    height: 40px;
+    background-color: transparent;
+    border: none;
+    margin: 0 10px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: #2e513d;
+   display: flex;
+   justify-content: flex-start;
+    transition: 1s;
+    position: relative;
+    margin: 10px 0;
+   
+
+}
+.div1 button::after{
+    content: "";
+    width: 0;
+    height: 40px;
+    position: absolute;
+  border-bottom: 1px solid #2e513d;
+  transition: 1s;
+  left: 0;
+  top: 0;
+}
+.div1 button:hover::after{
+    transition: 0.s;
+    width: 30%;
+}
+.dropdown{
+    width: 400px;
+    position: relative;
+    user-select: none;
+}
+.dropdown .dropdownBtn{
+    padding: 15px 15px;
+    /* box-shadow: 3px 3px 10px 6px rgb(0,0,0,0.06); */
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+   border-bottom: 1px solid rgb(185, 185, 185);
+
+}
+.dropdown .dropdownBtn input{
+   width: 100%;
+   height: 100%;
+   border: none;
+}
+
+.dropdown .dropdownContent{
+    position: absolute;
+    padding: 0px 10px;
+    padding-bottom: 3px;
+    left: 0;
+    top: 110%;
+    box-shadow: 3px 3px 10px 6px rgb(0,0,0,0.06);
+    width: 100%;
+    z-index: 99;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   
+}
+.dropdown .dropdownContent .dropdownItem{
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.dropdownItem:hover{
+    background-color: #f4f4f4;
+}
+.dropdownItem a{
+    color: #2e513d;
+}
+.div22{
+    width: 72%;
+}
+.sort{
+    width: 100%;
+    height: 90px;
+    /* margin-top: 25px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-items: center;
+}
+
+
+.div2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.divMusteri{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 30px auto;
+}
+.cardDiv1{
+    width: 30%;
+    height: 450px;
+    border: 1px solid rgb(242, 242, 242);
+    position: relative;
+   margin: 20px 0px;
+   border-radius: 5px;
+   
+}
+.img img{
+    width: 100%;
+    height: 280px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    transition: 2s;
+}
+.img{
+    position: relative;
+}
+.block{
+   display: none;
+   transition: 2s;
+}
+.img:hover .block{
+   display: block;
+   transition: 2s !important;
+   cursor: pointer;
+   
+}
+
+.cardMini1{
+    width: 100%;
+    height: 130px;
+    position: absolute;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    color: #2e513d;
+}
+.cardButton{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.btn2{
+    width: 100%;
+    height: 45px;
+    background-color: #2e513d;
+    border: 1px solid #2e513d;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 15px;
+    font-size: 18px;
+    overflow: hidden;
+}
+.btn2 i{
+  /* opacity: 0; */
+  transition: 0.5s;
+  transform: translateY(40px);
+
+ 
+}
+.btn2:hover{
+    background-color: transparent;
+    color: #2e513d;
+    transition: 0.3s;
+    
+}
+.btn2:hover i{
+    opacity: 1;
+    transition: 0.7s;
+    transform: translateY(0);
+    color: #2e513d;
+}
+/* .btn2:hover p{
+    transform: translateX(10px);
+    transition: 0.8s;
+} */
+
+.cardMini1 p,h3{
+  padding: 5px ;
+}
+
+
+@media(min-width:992px) and (max-width:1240px){
+ 
+
+}
+
+@media(min-width:768px) and (max-width:992px){
+ .name{
+    font-size: 25px;
+ }
+ .div1{
+    width: 30%;
+    font-size: 15px;
+ }
+ .div22{
+    width: 64%;
+ }
+ .cardDiv1{
+    width: 46%;
+ }
+ .sort span{
+    font-size: 15px;
+ }
+ .dropdown{
+    width: 350px;
+ }
+     
+}
+@media(min-width:600px) and (max-width:768px){
+    .name{
+        font-size: 23px;
+     }
+     .div1{
+        width: 38%;
+        font-size: 15px;
+     }
+     .div22{
+        width: 57%;
+     }
+     .cardDiv1{
+        width: 85%;
+     }
+     .sort span{
+        font-size: 13px;
+     }
+     .dropdown{
+        width: 300px;
+     }
+
+
+}
+@media only screen and (max-width:600px){
+    .name{
+        font-size: 20px;
+     }
+     .div1{
+        width: 44%;
+        font-size: 15px;
+     }
+     .div22{
+        width: 50%;
+     }
+     .cardDiv1{
+        width: 90%;
+     }
+     .sort span{
+        font-size: 10px;
+     }
+     .dropdown{
+        width: 200px;
+     }
+}

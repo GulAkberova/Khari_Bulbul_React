@@ -1,0 +1,97 @@
+.bigdiv{
+    width: 100%;
+    height: 550px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color:hsl(110, 8%, 85%);
+    background-image: url("./img/pexels-kseniya-budko-7941158\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.mainDiv{
+    width: 45%;
+    height: 470px;
+    /* border: 1px solid red; */
+    background-color: white;
+   display: flex;
+   justify-content: space-between;
+   border-radius: 10px;
+   margin: 0px 40px;
+   
+
+}
+.div1{
+    width: 35%;
+    height: 470px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.contact1{
+    width: 125%;
+    height: 390px;
+    border: 1px solid rgb(34, 60, 34);
+  position: absolute;
+  left: -70px;
+    background-color: rgb(34, 60, 34);
+    background-color: #1e351b;
+    color: white;
+    padding: 40px 15px;
+    border-radius: 10px;
+
+}
+.contact1 p i{
+    cursor: pointer;
+}
+.contact1 p i:hover{
+    transform: scale(1.2);
+}
+.contact1 p{
+    padding: 10px 0px;
+}
+.p{
+    font-size: 30px;
+}
+.div2{
+    width: 60%;
+    height: 460px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
+   font-size: 30px;
+   background-color: transparent;
+
+}
+.div2 input{
+    width: 80%;
+    height: 40px;
+    margin: 10px 0px;
+    padding: 0px 10px;
+    border: 1px solid rgb(48, 88, 48);
+    border-radius: 4px;
+}
+.inp{
+    height: 130px !important;
+
+}
+.div2 button{
+    width: 20%;
+    height: 30px;
+    border: 1px solid #D7DCD6;
+    background-color: rgb(34, 60, 34);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.8s;
+}
+.div2 button:hover{
+   border: 1px solid rgb(48, 88, 48);
+   background-color: white;
+   color: rgb(48, 88, 48);
+}

@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Changa:wght@300&family=Cinzel&family=Cookie&family=EB+Garamond&family=IBM+Plex+Sans:ital,wght@0,100;1,100&family=Ibarra+Real+Nova:wght@400;500;700&family=Nunito+Sans:wght@200&family=Parisienne&family=Poppins:wght@200;300;400;500;600;700;800&family=Roboto+Slab:wght@100&family=Satisfy&family=Smooch&family=Source+Serif+Pro:wght@200&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: white !important;
+
+  color: rgb(48, 88, 48) !important;
+
+  /* background-color:black !important;
+  
+    color: white!important; */
+}
+
+.container {
+  margin: 0px 30px !important;
+}
+.swiper-32 {
+  min-height: 600px;
+  margin: 0px auto;
+  width: 78%;
+}

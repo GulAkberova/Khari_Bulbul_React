@@ -1,0 +1,330 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Changa:wght@300&family=Cookie&family=EB+Garamond&family=IBM+Plex+Sans:ital,wght@0,100;1,100&family=Nunito+Sans:wght@200&family=Parisienne&family=Poppins:wght@200;300;400;500;600;700;800&family=Smooch&family=Source+Serif+Pro:wght@200&display=swap'); */
+.container {
+  padding: 0px 40px !important;
+}
+
+.mainmenu {
+  width: 100%;
+  height: 75px;
+  background-color: white;
+  /* background-color: transparent; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  font-size: 15px;
+}
+
+.search {
+  display: flex;
+}
+
+.search li {
+  padding: 0px 5px;
+  font-size: 15px;
+}
+
+.search i {
+  margin-left: -40px;
+}
+
+.search1 {
+  display: flex;
+}
+
+.search1 li {
+  padding: 0px 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.search1 li a {
+  color: rgb(48, 88, 48);
+  /* color: white; */
+}
+
+.search1 p {
+  margin-top: -25px;
+  margin-left: 19px;
+}
+
+.mainsearch {
+  width: 300px;
+  height: 30px;
+  padding: 0px 10px;
+  outline: none;
+  border: none;
+  background-color: black;
+  border-bottom: 1px solid white;
+}
+
+.logo a {
+  cursor: pointer;
+  font-family: "Parisienne", cursive;
+  color: rgb(48, 88, 48);
+  /* color: white; */
+}
+
+.overlay {
+  width: 100%;
+  height: 630px;
+}
+
+.overlay video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.drop {
+  font-family: "EB Garamond", serif;
+
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 14.5px;
+}
+
+.drop li {
+  padding: 0px 20px;
+  position: relative;
+}
+
+.drop li a {
+  color: rgb(48, 88, 48);
+  /* color: white; */
+}
+
+.drop .hover::after {
+  display: block;
+  content: "";
+  width: 0%;
+  height: 0.1px;
+  border-bottom: 1px solid rgb(48, 88, 48);
+  position: absolute;
+  bottom: 0px;
+  left: 20px;
+  transition: 0.5s;
+}
+
+.drop .hover:hover::after {
+  width: 30%;
+  transition: 0.5s;
+}
+
+::selection {
+  color: black;
+  background-color: white;
+}
+
+.li1 {
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.li1 i {
+  transition: 0.6s;
+}
+
+.li1:hover i {
+  transform: rotate(180deg);
+  transition: 0.6s;
+}
+
+.drop .hover:hover {
+  transform: scale(1.05);
+}
+
+.ul1 {
+  width: 950px;
+  height: 390px;
+  position: absolute;
+  top: 60px;
+  left: -438%;
+  width: max-content;
+  opacity: 0;
+  visibility: hidden;
+  color: rgb(48, 88, 48);
+  background-color: white;
+  /* background-color: #838682; */
+  line-height: 30px;
+  padding: 20px;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 14px;
+  transition: 1.2s !important;
+
+  /* padding: 10px 90px; */
+}
+
+.dropCare {
+  width: 454px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+/* .dropCare li  img {
+    width: 70%;
+    height: 80%;
+    position: relative;
+}
+
+.dropCare li img::after{
+    content:"";
+    width: 37%;
+    height: 100%;
+    border-left: 2px solid rgb(48, 88, 48);
+    position: absolute;
+    left: 0;
+    top: 30px;
+} */
+.dropHover {
+  width: 250px;
+  height: 250px;
+  background-image: url("https://bloomscape.com/wp-content/uploads/2022/02/bloomscape_fertilizing4-1024x768.jpg?ver=675694");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  overflow: hidden;
+  cursor: pointer;
+  position: relative;
+}
+.dropHover1 {
+  background-image: url("https://bloomscape.com/wp-content/uploads/2020/10/menu-learn-plantlife-opt.jpg?ver=313347");
+}
+.dropHover2 {
+  background-image: url("https://bloomscape.com/wp-content/uploads/2019/06/20190529_Kitchen_Vignette2_0031-2-1024x683.jpg?ver=33840");
+}
+.dropHover::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-right: 1px solid rgb(48, 88, 48);
+  border-top: 1px solid rgb(48, 88, 48);
+  position: absolute;
+  top: 0;
+  right: 0;
+  transition: 1s;
+}
+.dropHover:hover::after {
+  width: 270px;
+  height: 270px;
+  transition: 1s;
+}
+.dropHover::before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-bottom: 1px solid rgb(48, 88, 48);
+  border-left: 1px solid rgb(48, 88, 48);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transition: 1s;
+}
+.dropHover:hover::before {
+  width: 270px;
+  height: 270px;
+  transition: 1s;
+}
+.dropHover span {
+  width: 250px;
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  font-weight: 300;
+  color: white;
+  background-color: rgb(48, 88, 48);
+  opacity: 0.8;
+  transform: translateY(70px);
+  transition: 0.8s;
+  letter-spacing: 2px;
+}
+.dropHover span p a {
+  color: white;
+}
+
+.dropHover:hover span {
+  transform: translateY(0px);
+  transition: 0.8s;
+}
+.yasilImg {
+  width: 60% !important;
+}
+
+.dropImg {
+  width: 50%;
+  height: 30%;
+}
+.menu{
+  display: none;
+}
+
+@media (min-width: 992px) and (max-width: 1240px) {
+  .menu{
+    display: none;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .hover {
+    display: none;
+  }
+  .li1 {
+    display: none;
+  }
+  .menu{
+    display: block;
+  }
+  .logo{
+    margin-left: 150px;
+  }
+}
+@media (min-width: 600px) and (max-width: 768px) {
+  .hover {
+    display: none;
+  }
+  .li1 {
+    display: none;
+  }
+  .menu{
+    display: block;
+  }
+  .logo{
+    margin-left: 100px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .hover {
+    display: none;
+  }
+  .li1 {
+    display: none;
+  }
+  .menu{
+    display: block;
+  }
+  .logo{
+    margin-left: 90px;
+    font-size: 17px;
+  }
+}

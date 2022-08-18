@@ -1,0 +1,1306 @@
+{
+  "musteri": [
+    {
+      "id": 1,
+      "name": "Pippa",
+      "price": "23.00",
+      "like1": "Yüngül suvarma",
+      "main1": " O, olduqca sərtdir və adətən buraxılmış suvarmadan geri qayıdır. Torpağın üst hissəsi quru olduqda onu sulayın.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "İşığa gəldikdə o, çox şəraitdə idarə etmək asandır, baxmayaraq ki, daha parlaq bir yerdə daha çox çiçək açacaq.",
+      "like3": "Rutubet",
+      "main3": "Rütubəti sevir. Hamamınız çox işıq alırsa, onu ora daxil edin. Və ya onu xoşbəxt etmək üçün onu bir neçə gündən bir dumanlayın.",
+      "about": "Buxarlı şəraitə olan sevgisindən təxmin etdiyiniz kimi, sülh zanbağı tropik tropik meşələrə, xüsusən də Cənubi və Mərkəzi Amerikaya aiddir. Onun 1800-cü illərin sonlarında bir müddət Avropaya gətirildiyi və Böyük Britaniyanın tropik olmayan şəraitinə yaxşı uyğunlaşdığı düşünülür.klər çəkə bilən yavaş böyüyəndir.",
+      "category": "Birbaşa günəş işığında ən xoşbəxt",
+      "sun": "Ən çox işıq şəraiti",
+      "botanicalName": "Spathiphyllum wallisii",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1632738435/cjbnqexhcuzi0vytagx5.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153230/products/peace-lily-158db9.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153137/products/peace-lily-1530c2.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153024/products/peace-lily-14c01a.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+
+    {
+      "name": "Lale",
+      "price": "42",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595004524/lox9hk2nulxjbg0ty8im.jpg",
+      "quantity": "2",
+      "id": 4
+    },
+    {
+      "name": "Susi",
+      "price": "23",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618420076/zku71d5xv2s2vlzg8knp.jpg",
+      "quantity": "1",
+      "id": 5
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "name": "Pippa",
+      "price": "23.00",
+      "like1": "Yüngül suvarma",
+      "main1": " O, olduqca sərtdir və adətən buraxılmış suvarmadan geri qayıdır. Torpağın üst hissəsi quru olduqda onu sulayın.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "İşığa gəldikdə o, çox şəraitdə idarə etmək asandır, baxmayaraq ki, daha parlaq bir yerdə daha çox çiçək açacaq.",
+      "like3": "Rutubet",
+      "main3": "Rütubəti sevir. Hamamınız çox işıq alırsa, onu ora daxil edin. Və ya onu xoşbəxt etmək üçün onu bir neçə gündən bir dumanlayın.",
+      "about": "Buxarlı şəraitə olan sevgisindən təxmin etdiyiniz kimi, sülh zanbağı tropik tropik meşələrə, xüsusən də Cənubi və Mərkəzi Amerikaya aiddir. Onun 1800-cü illərin sonlarında bir müddət Avropaya gətirildiyi və Böyük Britaniyanın tropik olmayan şəraitinə yaxşı uyğunlaşdığı düşünülür.klər çəkə bilən yavaş böyüyəndir.",
+      "category": "Qulluğu asan",
+      "sun": "Ən çox işıq şəraiti",
+      "botanicalName": "Spathiphyllum wallisii",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1632738435/cjbnqexhcuzi0vytagx5.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153230/products/peace-lily-158db9.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153137/products/peace-lily-1530c2.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564153024/products/peace-lily-14c01a.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rapunzel",
+      "price": "42.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Suya çox sadədir. Hər həftə onu yoxlayın və torpağın üst iki düym hissəsi qurudursa, ona bir içki verin..",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Səs-küy salacaq biri deyil, demək olar ki, hər hansı bir işıqda yaxşı olacaq. Onun daha parlaq bir yerdə daha tez böyüdüyünü görəcəksiniz.",
+      "like3": "Rutubet",
+      "main3": "Hamam və ya mətbəx kimi çox nəm olan otaqları sevir. Digər otaqlarda o, vaxtaşırı buğulanmağı qiymətləndirəcək..",
+      "about": "Şeytanın sarmaşıqları, qızıl papaqlar, seylon sürünənləri, ovçu paltarları və ya bizim adlandırdığımız kimi, Rapunzel. Dünyanın ən məşhur otaq bitkilərindən biri olduğu üçün onun çoxlu adı var. Bunun iki səbəbi var. 1) Çox yönlüdür. Bu, fantastik asma bitkidir, rəfdə və ya şkafda əla görünür və ya hətta divara qədər öyrədilə bilər. 2) Ona qulluq etmək inanılmaz dərəcədə asandır. Biz 16 sm-lik gil qablarımızı ən uyğun variant kimi tövsiyə edirik.",
+      "category": "Biraz sevgiyə ehtiyacı var",
+      "sun": "Ən çox işıq şəraiti",
+      "botanicalName": "Epipremnum aureum",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1646390359/ypgmev3z0gfcl1ucxmhb.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564152528/products/devils-ivy-12cfff.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618417886/o9s5jk0fkxdm0zpp7edh.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564152607/products/devils-ivy-131ead.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ziggy",
+      "price": "37.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Təxminən həftədə bir dəfə torpağı yoxlayın və üst iki düym torpağın quru olduğunu hiss edərsə, ona bir içki verin. Qışda ona daha az ehtiyac var.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Xoşbəxt qalmaq üçün ona çoxlu işıq lazımdır. İdeal olaraq birbaşa günəş işığı deyil, çoxlu parlaq işıq. Təəssüf ki, o, kölgə üçün yaradılmayıb.",
+      "like3": "Rutubet",
+      "main3": "O, yarpaqları vasitəsilə çoxlu su udur, ona görə də yaxşı buğu onun təravətli və parlaq görünməsinə kömək edəcək.",
+      "about": "Təbiətdə rəngarəng bir Monstera tapa bilməzsiniz. Əslində, hər yerə gəlmək çox çətindir. Bu qeyri-adi bitki çox diqqətli becərmənin nəticəsidir. Bu o qədər nadir və o qədər qiymətlidir ki, bitkilərin minlərlə funt-sterlinqə əl-ələ verdikləri məlumdur.",
+      "category": "Palmalar və ağaclar",
+      "sun": "Ən çox işıq şəraiti",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "botanicalName": "Monstera borsigiana variegata,'Albo variegata'",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1646847142/ncavxdvve0kw5iejquzm.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1577107685/g3exy975exdvc1i7wn1r.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1630669706/ybyefhdqgds4dmjy7lmn.jpg",
+      "plantHeight": "40-50sm",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1630669684/lsauudcrlpdqgpcrdfbp.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Susie",
+      "price": "10.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Onun çox suya ehtiyacı yoxdur. Torpağı quruyanda, təxminən bir neçə həftədən bir ona bir içki verin. Qışda daha az.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, demək olar ki, bütün işıq şəraitində inkişaf edəcək (pəncərəsiz otaq olmasa da). Daha çox yaxşıdır, amma hər şey yaxşıdır.",
+      "like3": "Tozlanma",
+      "main3": "Hər dəfə - hər dəfə xatırladığınız zaman - məsamələrini tozdan təmizləmək üçün yarpaqlarına yüngül bir salfet verin.",
+      "about": "Əgər əvvəllər heç bir bitkiyə qulluq etməmisinizsə və asan başlamaq istəyirsinizsə, ilan bitkisi sizin üçündür. Birini həqiqətən öldürmək üçün çox cəhd etməli olacaqsınız. O, laqeydlik üzündən inkişaf edir, ən yüngül suvarmağa ən yaxşı cavab verir və sonra yalnız qalır. Yaz və yay aylarında ayda bir dəfə maye gübrə ilə yemi yüksək qiymətləndirəcək, lakin bu, ehtiyac duyduğu qədər xüsusi diqqətdir.",
+      "category": "Orta / 50sm-1m",
+      "sun": "Ən çox işıq şəraiti",
+      "botanicalName": "Sansevieria trifasciata",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1563876772/products/snake-plant-dda326.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1563806873/products/snake-plant-cc98fa.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1647597878/cvsygxbio4urtf3f6fzt.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1563812091/products/snake-plant-e0fb21.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Rick",
+      "price": "32.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Suya az qulluq edir. O, çox quraqlığa dözümlüdür, ona içki verməzdən əvvəl torpağının tamamilə qurumasına icazə verin..",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, açıq kölgədən parlaq, yumşaq işığa qədər hər şeydə xoşbəxtdir. Onu birbaşa günəş işığından qoruyun..",
+      "like3": "Rutubet",
+      "main3": "Hamımızın etdiyi kimi, təzə görünmək üçün onun nəmə ehtiyacı var. O, bir neçə gündən bir vanna otağını və ya bir mister ilə spreyi sevəcək",
+      "about": "Təbiətdə altı metrə qədər böyüyə bilsələr də, qapalı qarğıdalı bitkiləri ölçüsündən daha çox xarakter daşıyır, hətta boz günlərdə bir az tropik ləzzət verir. Əgər həqiqətən xoşbəxtdirlərsə, kiçik, ağ çiçəklər yetişdirməklə sizi mükafatlandıra bilərlər. Əhvalınızı yaxşı saxlamaq üçün unutmayın: dumanla səxavətli, suvarma ilə ehtiyatlı olun. Yaz və yay aylarında ayda bir dəfə maye gübrə ilə yem versəniz, o da sizi sevəcək. Bu, onun böyük və güclü böyüməsinə kömək edəcəkdir.",
+      "category": "Kiçik / 15-50sm",
+      "botanicalName": "Dracaena fragrans",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636714084/cugh0rkntfl27wmfqeze.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564151065/products/dracaena-fragrans-0d18ec.jpg",
+      "sun": "Ən çox işıq şəraiti",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1539776737/products/corn-plant-214138.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564151064/products/dracaena-fragrans-0d1744.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Rick",
+      "price": "32.00",
+      "like1": "Yüngül suvarma",
+      "main1": " O, quraqlığa dözümlüdür, unutqan suvaranlar üçün çox yaxşıdır, lakin torpağın üst iki düym hissəsi quruyanda onu suvarmağa çalışın..",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, kölgədən parlaq işığa qədər hər şeydə xoşbəxt olacaq (lakin birbaşa günəş işığı deyil). Onun rəngi zəif işıqda qarala bilər",
+      "like3": "Rutubet",
+      "main3": "O, nəmli bir mühiti sevir, buna görə banyoda və ya müntəzəm dumanla çox xoşbəxt olacaq.",
+      "about": "Rəngarəng yarpaqları olan bitkilər tez-tez bir az yüksək baxım tələb edə bilər, lakin görünür, heç kim Mərmər Kraliçasına pothos deməmişdir. Bu qapalı bitki heyrətamiz ağ-yaşıl rəngə malikdir, lakin ona baxmağa da diqqət yetirmək lazımdır. Demək olar ki, hər hansı bir işıq şəraitində xoşbəxt yaşaya bilər və nadir hallarda suvarmağa ehtiyac duyur. Mükəmməl bitkidir..",
+      "category": "Birbaşa günəş işığında ən xoşbəxt",
+      "botanicalName": "Epipremnum pinnatum ‘Marble Queen’",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1653997621/c0ks5bx9bqhkrd2uypje.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1654000020/mlkm6skarfjqppwtdr6o.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1653997621/ragnugvzk0an4hvhxpnr.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1653999881/js8fe0tkuoi7gsoijiar.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lionel",
+      "price": "35.00",
+      "like1": "Yüngül suvarma",
+      "main1": "İsti havalarda torpağı bir az nəm saxlamaq üçün tez-tez suvarmağa ehtiyac duyur. Qışda ona daha az ehtiyac olacaq.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Bütün sitrus ağacları kimi o, çoxlu günəş işığını sevir. Nə qədər çox günəş işığı alsa, bir o qədər çox meyvə verəcək.",
+      "like3": "Rutubet",
+      "main3": "Ona aylıq yem versəniz, daha çox meyvə alacaqsınız..",
+      "about": "Sitrus kalamondini güclü ətirli yarpaqlar, gözəl çiçəklər və çoxlu yeməli meyvələr verən kumquat və naringi portağalının hibrididir. Bir az daha kəskin dadı olan mandarin kimi olan meyvə Filippində çox məşhur yemək tərkib hissəsidir və yaşıl (yetişməmiş) və ya narıncı (yetişmiş) olduqda istifadə edilə bilər. Meyvəni yeməsəniz belə, veranda və ya balkonda həqiqətən gözəl görünəcək..",
+      "category": "Kölgədə xoşbəxt",
+      "botanicalName": "Citrus calamondin",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1642590688/ewnnxypan5euayk9g5mp.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622852218/olh5ts6bgldc0ezhgoq9.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1617714280/xxb4sfi8trf3arialtoo.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622852217/wajin0yuh7uvcqvbmbza.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Laurens",
+      "price": "23.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Laurens həqiqətən çox nəmli torpağı sevmir, ona görə də onun əkdiyi torpağın yaxşı drenaj etdiyinə əmin olun.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Laurens bol günəşi sevir və quru, isti iqlimlərə dözə bilir. Ona tam günəşdə isti bir yer tapın..",
+      "like3": "Rutubet",
+      "main3": "Onun daha gözəl görünməsi üçün apreldə böyümədən əvvəl və sentyabrda yenidən budayın..",
+      "about": "Estetikanız İngilis bağından daha çox Provans kəndinə meyl edirsə, Laurens sizin üçün oğlandır. İngilis əmisi oğlu Vanda kimi, onun ətirli bənövşəyi çiçəkləri var, lakin Laurensin çiçəkləri dovşan qulaqlarına bənzəyən kiçik budaqlarda yuxarıya doğru böyüyür. Onun qanı Vandanın qanından daha isti olur və o, kifayət qədər günəş ala bilmir. Yay aylarında ən gözəl və çiçəkli olacaq.",
+      "category": "Birbaşa günəş işığında ən xoşbəxt",
+      "botanicalName": "Lavandula Stoechas 'Anouk'",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1651682608/kwhsjkhk0rizs29knzwp.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1555065069/products/french-lavender-68ec37.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1617714280/xxb4sfi8trf3arialtoo.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1555065100/products/french-lavender-690b38.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Big Ken",
+      "price": "32.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Həftədə bir dəfə onu yoxlayın və torpağın üst iki düymünün quru olduğunu hiss edirsinizsə, onu sulayın.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": " Çox işıq alan istənilən otaqda o, ən xoşbəxt olacaq. Sərt günəş onun üçün bir az çoxdur, ona görə də ideal olaraq pəncərənin yanında deyil.",
+      "like3": "Rutubet",
+      "main3": "Yarpaqlarını təzə saxlamaq üçün nəmli havanı yüksək qiymətləndirir. Onu həftədə bir neçə dəfə buxarlamaqla bunu asanlıqla etmək olar.",
+      "about": "Kentia xurması Avstraliyanın şərq sahillərindəki kiçik bir torpaq parçası olan Lord Hou adasında (əhali: 382) yaranmışdır. Ada xurmaya botanik adı Howea forsteriana verir. Bu, 10 metr maksimum hündürlüyə çatmaq üçün onilliklər çəkə bilən yavaş böyüyəndir.",
+      "category": "İşıqda və kölgədə xoşbəxtlik",
+      "sun": "Ən çox işıq şəraiti",
+      "botanicalName": "Howea forsteriana",
+      "quantity": "1",
+      "info": "Chamaedorea elegans; Neanthe bella xurması; Salon xurması",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1619710988/ljjnmimjotjvqkufdptt.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564154460/products/kentia-palm-1a5bdf.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1585220744/ftcc38bksuyxcin6vvs8.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1591266257/s1tqeehmlgi38ade1fzb.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Klem",
+      "price": "32.00",
+      "like1": "Yüngül suvarma",
+      "main1": "Klem nəmli qalmaq üçün onun qumlu, yaxşı qurudulmuş torpağını xoşlayır, ona görə də bir müddət yağış yağmayıbsa, ona bir az içki verin - əvvəlcə torpağının quruduğundan əmin olun. Divarlara dırmaşmaq susuz işdir.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Klem köklərini sərin tutmağı sevir. O, qismən kölgədə ən yaxşı rəngli çiçəklər verəcək (tam günəş çiçəkləri ağardır). Səhər və ya axşam günəşi olan bir yer mükəmməldir.",
+      "like3": "Rutubet",
+      "main3": "Budama vacib olmasa da, onun formasını qorumaq üçün çiçəkləndikdən sonra ona bəzək verə bilərsiniz..",
+      "about": " Clematis 'Hagley hybrid' əla alpinistdir və böyük çəhrayı çiçəklərlə gec yazdan payıza qədər çiçək açır. Yenidən böyümədən əvvəl qışın sonunda və ya erkən yazda təxminən 1 fut yüksəklikdə qönçələrə kəsilməlidirlər.",
+      "category": "Birbaşa günəş işığında ən xoşbəxt",
+      "botanicalName": "Clematis 'Hagley hybrid'",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644588218/up2zzuwxvzt0mkt5lu5o.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644314948/wgunwodfdo18uivic8ot.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644229487/wqj5afberwjwzbutydkj.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1646670836/ugc/Clematis_Hagley_1-min.png",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ryu",
+      "price": "41.00",
+      "like1": "Yüngül suvarma",
+      "main1": "Yaz və yayda torpağı bir az qurumağa başlayanda onu sulayın. Artıqlığın boşaldılmasına əmin olun.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, günəşi sevir, ona görə də ona mümkün olan ən parlaq yer verin. O, qismən kölgədə idarə edəcək, lakin daha az çiçək verəcəkdir.",
+      "like3": "Rutubet",
+      "main3": "Budama vacib olmasa da, onun formasını qorumaq üçün çiçəkləndikdən sonra ona bəzək verə bilərsiniz..",
+      "about": " Gerberaların böyük papatya çiçəkləri istənilən məkana şən rəng qatır. Onlar uzun çiçəkləmə dövrünə malikdirlər, ümumiyyətlə bütün yay və payızın əvvəlinə qədər bağçanıza və ya balkonunuza rəng əlavə etmək üçün asan bir yoldur. Çəhrayı, sarı, bənövşəyi və ya narıncıdan birini seçin - və ya rəng qarışıqlığı üçün onları qarışdırın.",
+      "category": "Orta / 50sm-1m",
+      "botanicalName": "Gerbera",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1649672421/bgwnpnwdaki95isx5d16.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1649755077/xd2l4ntio2ymrgxfco1v.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1649672531/wofnsbzaqbgxtjhiw83p.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/f_auto,q_auto:good/v1649672648/bkhbwvzgn89xdejctcqn.png",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Rosa",
+      "price": "25.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Yazda və yayda onun torpağını müntəzəm suvarmaqla nəm saxlayın, lakin artıq suyu boşaltmaq üçün yaxşı bir drenaj materialından istifadə etdiyinizə əmin olun.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Roza günəşli yerdə inkişaf edir, baxmayaraq ki, o, kölgəyə də dözür. O, yaxşı təravətləndirici mehdən narahat deyil. O, sığınacaqsız balkonda və ya bağ yamasında yaxşı olacaq.",
+      "like3": "Rutubet",
+      "main3": "Fevralın ortalarında hər hansı ölü və ya zədələnmiş yarpaqları kəsərək budayın. Yazda onun ölmüş və solğun çiçəklərini budayın ki, onun yay çiçəkləri gözəl və parlaq olsun.",
+      "about": " Rozanın çox da təqdimata ehtiyacı yoxdur - çiçəkləri və şirin qoxusu ilə Rozanın gözəlliyi həqiqətən əbədidir. İlk aşkar edilmiş qızılgülün qalıqları 40 milyon il əvvələ aiddir və Çində o, ən azı 5000 ildir ki, bağçaların sevimlisi olub. Həmişə romantik olan Roza sevgini, həssaslığı və gözəlliyi simvollaşdırır - o, məşhur afrodizyakdır. Onun ləçəklərindən ətirlər, yağlar və ləzzətli yeməklər hazırlanır (o, türk mətbəxində olduqca məşhurdur) və yüngül antiseptik və iltihab əleyhinə xüsusiyyətləri onu dəriyə qulluqda məşhur seçim edir..",
+      "category": "Qulluğu asan",
+      "botanicalName": "Roza",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1643989674/xcdcg19re4wxpfqvzjse.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1643989522/yonnb62cuhprrrmjlxbq.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1643989625/cmnnsrkghgbaxqfpchdq.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1643989523/fwwp5stwipob2wdvj49d.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Angie",
+      "price": "41.00",
+      "like1": "Yüngül suvarma",
+      "main1": "Yaz və yayda torpağı bir az qurumağa başlayanda onu sulayın. Artıqlığın boşaldılmasına əmin olun.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Ən böyük və ən yaxşı çiçəkləri əldə etmək üçün onu mövcud olan ən parlaq yerə qoyun. Tam günəşi sevir, idealdır.",
+      "like3": "Rutubet",
+      "main3": "Budama vacib olmasa da, onun formasını qorumaq üçün çiçəkləndikdən sonra ona bəzək verə bilərsiniz..",
+      "about": "Agapanthus tamamilə diqqət çəkməyə, hündür və qürurlu böyüməyə və sonra ağ və bənövşəyi çiçəklərin böyük qlobusları ilə rənglənməsinə təkid edir. Çiçək kolleksiyasının bir hissəsi kimi və ya tək başına, onlar möhtəşəm görünəcəklər. İyuldan sentyabr ayına qədər çiçək açırlar.",
+      "category": "Qulluğu asan",
+      "botanicalName": "Agapanthus africanus 'fireworks'",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644254018/ypdikrx1sdtejpln46wb.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644247389/kioqe5smzomz7h1gnrca.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644252124/nkl7xban9on2tmva6sxj.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644251969/pnfjdn2gknqfyr8wewnj.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Gia",
+      "price": "21.00",
+      "like1": "Yüngül suvarma",
+      "main1": " Çoxlu çiçəkləri təşviq etmək üçün onun torpağını yumşaq bir şəkildə nəmləndirin (nalaq deyil). Üst iki düym torpağın quruduğunu hiss etdikdə onu sulayın.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, səhər günəşi və günortadan sonra kölgə alacağı yerdə ən xoşbəxt olacaq. O, qızmar günorta günəşini sevmir.",
+      "like3": "Rutubet",
+      "main3": " Yaz və yay boyunca ayda bir dəfə maye gübrə ilə qidalanaraq onu çiçək açmağa təşviq edin.",
+      "about": "Hydrangea İngilis klassikidir, böyük, şən çiçəkləri ilə sevilir, lakin əslində Yaponiyaya aiddir. Böyük Britaniyada 1700-cü illərin əvvəllərində təqdim edildi və o vaxtdan bəri məşhurdur. Hydrangea macrophylla arxetipik ortancadır, yığcam formaya və çoxlu böyük yuvarlaq çiçək dəstələrinə malikdir.",
+      "category": "Kölgədə xoşbəxt",
+      "botanicalName": "Hydrangea Macrophylla",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1619619508/lyaqo2zx6t0dgq8dkg7w.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1619619589/megnho6wupzwbfjxksax.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1619619921/dd7ctz5jpkqd0wjd4ws3.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1619619680/ftfexk4cn8be7c7uae7f.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ria",
+      "price": "11.00",
+      "like1": "Yüngül suvarma",
+      "main1": "Torpağı nəmli saxlamağa çalışın, çünki o, qurumağı sevmir. Yayda daha çox suya ehtiyacı olacaq.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "Tam günəşdə və ya qismən kölgədə xoşbəxtdir. Yer nə qədər günəşli olsa, bir o qədər çiçək açır.",
+      "like3": "Rutubet",
+      "main3": "O, güclü küləklərə həvəs göstərmir, ona görə də yaxşı olar ki, onu uçmayacağı bir yerə qoyun.",
+      "about": "Peru zanbağı kimi də tanınan Alstromeria, kəsilmiş çiçək kimi çox məşhurdur. Yəqin ki, yerli çiçəkçi və ya supermarketdə dəstə-dəstə satıldığını görmüsünüz. Özünüzü yetişdirmək və yayın əvvəlindən payızın ortalarına qədər özünüzü çiçəklərlə müalicə etmək çox asandır.",
+      "category": "Kölgədə xoşbəxt",
+      "botanicalName": "Alstroemeria",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1641917521/zl790qcvfwj5tbs3ukzv.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644229010/orwje02u3qf3dhnxpd3h.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644228979/hyvj6qm96fbt7rxspj1m.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1644229010/s12gww3kj77sz3ohtoo8.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Gia",
+      "price": "19.00",
+      "like1": "Yüngül suvarma",
+      "main1": "Torpağı nəmli saxlamağa çalışın, çünki o, qurumağı sevmir. Yayda daha çox suya ehtiyacı olacaq.",
+      "like2": "Ən çox işıq şəraiti",
+      "main2": "O, səhər günəşi və günortadan sonra kölgə alacağı yerdə ən xoşbəxt olacaq. O, qızmar günorta günəşini sevmir.",
+      "like3": "Rutubet",
+      "main3": "Yaz və yay boyunca ayda bir dəfə maye gübrə ilə qidalanaraq onu çiçək açmağa təşviq edin.",
+      "about": "Hydrangea İngilis klassikidir, böyük, şən çiçəkləri ilə sevilir, lakin əslində Yaponiyaya aiddir. Böyük Britaniyada 1700-cü illərin əvvəllərində təqdim edildi və o vaxtdan bəri məşhurdur. Hydrangea macrophylla arxetipik ortancadır, yığcam formaya və çoxlu böyük yuvarlaq çiçək dəstələrinə malikdir.",
+      "category": "Demək olar ki, öldürülməz",
+      "botanicalName": "Alstroemeria",
+      "quantity": "1",
+      "sun": "Ən çox işıq şəraiti",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622851435/rodtbmddfg9afkzm4ccx.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622851755/gebrdpmpm1etiljxybxx.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622851771/vwhywttwn0n49zuuzhpe.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622851437/k0aguakedu7laffjxnci.jpg",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    }
+  ],
+  "pots": [
+    {
+      "id": 21,
+      "name": "Taxta bitki stendi",
+      "price": "25.00",
+      "quantity": "1",
+      "why": "Bitki stendlərimizi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Plant stands were extremely popular in Victorian times. They turned plants into a focal feature, as they deserve to be. We thought it was time they made a comeback, so we created these elegant modern versions from hard-wearing acacia wood..",
+      "category": "M (15-20sm)",
+      "category1": "Boz",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1528374768/products/plant-stand-25ee85.png",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1528374504/products/plant-stand-24e6c1.png",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1564150102/products/plant-stand-09555d.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1598967277/ehjcbw2ii6jlkwqfnkrc.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Qumdaşı silindrli qab",
+      "price": "35.00",
+      "quantity": "1",
+      "why": "Qumdaşı silindrli qabi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Qumdaşı qatranı qumdaşı görünüşünə və teksturasına malikdir, lakin çəkisi yoxdur. Bütün il çöldə qalmaq üçün kifayət qədər güclüdür, lakin çəkisi nəzərə alınmaqla balkonlarda və digər açıq məkanlarda istifadə etmək üçün kifayət qədər yüngüldür. Canyon Orange və Green rənglərində mövcuddur.",
+      "category": "S (10-15sm)",
+      "category1": "Yasil",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1623862386/bebcmb1tjqpuzcaas2wc.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1624019255/rgxddhexvm3e2hkx7me8.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1623325638/abo20rtjyn1qyla1baey.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1624018682/o7p51i7bc1prky5dq6u4.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Gil asma qab",
+      "price": "45.00",
+      "quantity": "1",
+      "why": "Biz gildən asılan qabımızı niyə sevirik?",
+      "why1": "Neytral, köntöy materiallardan hazırlanmış bu asma qablar asma bitkilərinizi yaşamaq üçün təhlükəsiz və gözəl bir yerdə verir.",
+      "about": "Tutqun lifli gildən hazırlanmış bu möhkəm qablar köntöy teksturanı sadə, müasir formalarla qarışdırır. Bitkinizin etibarlı əllərdə olduğundan əmin olmaq üçün iki boz rəngdə və müxtəlif ölçülərdə, hər ikisi güclü jüt iplə mövcuddur.",
+      "category": "S (0-25sm)",
+      "category1": "Ag/Qara",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1571058518/gntkchttij6imnjffbwk.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1571058417/bexuctfg2jk0wrtsefnx.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1571058341/riy9sdicf8wh3rcbqxno.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1571058495/iqv3wjbypgkw8kbhuqqp.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Loft  qab",
+      "price": "14.00",
+      "why": "Bu qabı niyə sevirik?",
+      "why1": "100% təkrar emal edilmiş materialdan hazırlanmış bu ekoloji təmiz qablarda bitkilərinizin düzgün suvarılmasını təmin etmək üçün gizli su anbarı var.",
+      "about": "Bu təkrar emal edilmiş plastik qablar nəinki gözəl görünür, həm də sizə və bitkilərinizə kömək edəcək ağıllı bir sirri var. Qazanın dibində artıq suyu saxlayan kiçik bir su anbarı var, suvarma ilə bağlı unutqansınızsa, bitkilərinizə bir az ehtiyat verir. Bitkilərinizin su altında qalmamasını təmin etmək üçün bir drenaj çuxuru da var. Onlar üç rəngdə mövcuddur.",
+      "category": "XL (25-30sm)",
+      "category1": "Rengli",
+
+      "quantity": "1",
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645703528/aujvvotphunt1grbm3t3.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645705143/coi7su2bpewn6flk0o4h.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645705145/ypf1jm8duxuydrttcmof.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645703900/awsufjhbr808hvialtjj.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Beton qab",
+      "price": "14.00",
+      "quantity": "1",
+      "why": "Beton qabi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Forma və funksiyanı mükəmməl şəkildə birləşdirən bu beton təmiz, klassik dizayna malikdir və möhkəm betondan hazırlandığından illərlə davam edəcək. Onun incə rəngi bitkilərinizə hər şeyi etməyə imkan verir. Bütün il boyu çöldə çıxmaq üçün uyğundur..",
+      "category": "M (25-40sm)",
+      "category1": "M (15-20sm)",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622025686/navpalzeqicievaoigzd.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1617720330/kfz7gqrctlw35bdpxqcd.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622025804/g0djd0ptofhskmtz5ny8.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622025768/y0yzcsmra9emqupkgnvw.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Qırıq qab",
+      "price": "29.00",
+      "quantity": "1",
+      "why": "Qiriq qabi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Bu heyrətamiz qazan həqiqətən xüsusi bir şey istehsal etmək üçün əl ilə hazırlanmışdır. Gil qab əl ilə preslə hazırlanır, daha sonra fərqli parlaq, toxunma səthi yaratmaq üçün bir neçə rəngli şirlə örtülür. Qatlar yığılıb bir-birinə qarışdıqca, fırlanan rəngli buludlarla ağır teksturalı səth əmələ gətirirlər..",
+      "category": "XS (0-10sm)",
+      "category1": "Rengli",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1633015146/xrmx5sdmsccqsz02ny2l.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595943660/zoeg0aiysxtdq9mjq4ad.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645638318/tntstxsk00cgdlz1i0u4.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1633088758/o7lg7ydx90rel65bcnvu.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Su anbarı qabi",
+      "price": "25.00",
+      "quantity": "1",
+      "why": "Su anbari qabi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Unutqan suvaranlar üçün dahiyanə seçim olan bu ağıllı qazanda bitkinizin qurumaması üçün əlavə su saxlayan daxili su anbarı var. Bitkiniz su anbarından suyu çəkə bilər, lakin o, orada oturmayacaq, buna görə də kökləri su basmaq təhlükəsi yoxdur..",
+      "category": "M (15-20sm)",
+      "category1": "Rengli",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645700970/hkrarzkoukho4rlitcij.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645702204/jokjfz34f2i1fn0twmbv.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645702081/jnl2yp5dhdsreirvestz.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1623861520/cijtjpvkmtqrldvvln6a.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Batırılmış qab",
+      "price": "10.00",
+      "why": "Niyə daldırma qablarımızı sevirik?",
+      "why1": "İsti rənglər və ziddiyyətli teksturalar əl ilə işlənmiş bu qabları əsl göz oxşayan edir. Onlar Xari Bulbul üçün eksklüzivdir.",
+      "about": "Dizayn sadə görünür, lakin bu gözəl qabları yaratmaq üçün çox iş tələb olunur. Birincisi, gil qablar qəliblənir və havada qurudulur - hava imkan verdiyi zaman günəşdə. Daha sonra toxumalı bir finiş vermək üçün qum şirəsi ilə atəşə tutulurlar. Yenidən atəşə tutulurlar, bu dəfə parlaq bir parıltı ilə. Orijinal qum şirəsinin bir zolağı açıq qalır və bu, onları bu qədər gözəl edən kontrast yaradır..",
+      "category": "S (10-15sm)",
+      "category1": "M (15-20sm)",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645615711/qceil0ecpp0yyrg36esk.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594921452/yrabasppfoonnw49p7i1.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1645626916/ullzyykh4nglioddd59r.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1600084358/wup8l6vgjsnwngrfm8xs.jpg",
+      "quantity": "1"
+    },
+    {
+      "id": 29,
+      "name": "Əyri kənarlı qab",
+      "price": "13.00",
+      "quantity": "1",
+      "why": "Əyri kənarlı qab niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "İstənilən qapalı bitki ilə və istənilən dekorasiya ilə işləyən zərif klassik, əyri kənar qazan bütün şəhər cəngəlliyinə uyğun bir sıra rəng və ölçülərdə gəlir. Biz bütün biznesimizdə plastikdən istifadəni minimuma endirməyi hədəfləyirik, lakin bu plastik qabların arxasında duran hekayə davamlılıq və məsuliyyətdir. Düz kənarlı qablarımızın istehsalçısı Elho, 100% külək enerjisi ilə işləyən fabrikdə hər il 5,6 milyon ton plastik tullantıları təkrar emal edir və gözəl məhsullara çevirir. Bu qablar >85% təkrar emal edilmiş plastikdən hazırlanır və onlar da təkrar emal edilə bilər..",
+      "category": "M (15-20sm)",
+      "category1": "Ag/Qara",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1587557839/pd4n18j1abt4cormiz0n.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1591270829/ulmh7hk9sa9jeupkijra.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1587555275/gnjjfphrcl1mp2fiew1o.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1607530942/cwweqdt6hdffnkbtq5ie.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Fibrestone kub qab",
+      "price": "12.00",
+      "quantity": "1",
+      "why": "Fibrestone kub qabi niyə sevirik?",
+      "why1": "Bitkilərinizi yüksəltməyin əla yolu - həm görünüşdə, həm də hündürlükdə - bu taxta bitki stendləri Patch üçün eksklüzivdir.",
+      "about": "Fibrestone daş zərifliyinə malikdir, lakin çox, daha yüngüldür. Bu, hərəkət etməyi asanlaşdırır və eyvan kimi çəkiyə diqqət yetirilən yerlər üçün ideal seçimdir..",
+      "category": "S (10-15sm)",
+      "category1": "Ag/Qara",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622058322/fbjqyinmylxa3gqqp3yw.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618344867/wne9nfqf0fi3v1pjwxlw.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1623859972/hddt1ieavezxlteu4g6e.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618344923/via46o3jcrfslqyp7wmm.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Seramik şüşəli qab",
+      "price": "12.00",
+      "quantity": "1",
+      "why": "Keramika şirli qablarımızı niyə sevirik?",
+      "why1": "Bu sevimli və rəngarəng qablardakı bitiş onlara dəbli vintage hissi verir. Onlar Patch üçün eksklüzivdir.",
+      "about": "Uzaqdan gözəl, lakin yaxından daha da heyranedici olan bu əl ilə şüşəli qablar interyerinizə incə tekstura qatacaq. Əllə qəliblənmiş gil qablar bişirilərkən incə çıtırtılı bitirmə əmələ gətirən xüsusi şirlə boyanır. Soyuduqdan sonra onlar mürəkkəblə boyanaraq, incə çatlar torunu çıxararaq, ağıllı vintage görünüş yaradırlar. Çatlar, əlbəttə ki, yalnız səth detallarıdır. Onlar tam suya davamlıdırlar.",
+      "category": "L (20-25sm)",
+      "category1": "Mavi",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1646239756/q1rnnwka8lc1x1wa0avb.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1597421604/yl24w8zvctyh1oodwqsv.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1594925361/gkfjn054mmbtc319mwab.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1597421368/zdfpbiioklq42yksq920.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Fibrestone qab",
+      "price": "12.00",
+      "quantity": "1",
+      "why": "Keramika şirli qablarımızı niyə sevirik?",
+      "why1": "Bu sevimli və rəngarəng qablardakı bitiş onlara dəbli vintage hissi verir. Onlar Patch üçün eksklüzivdir.",
+      "about": "Uzaqdan gözəl, lakin yaxından daha da heyranedici olan bu əl ilə şüşəli qablar interyerinizə incə tekstura qatacaq. Əllə qəliblənmiş gil qablar bişirilərkən incə çıtırtılı bitirmə əmələ gətirən xüsusi şirlə boyanır. Soyuduqdan sonra onlar mürəkkəblə boyanaraq, incə çatlar torunu çıxararaq, ağıllı vintage görünüş yaradırlar. Çatlar, əlbəttə ki, yalnız səth detallarıdır. Onlar tam suya davamlıdırlar.",
+      "category": "L (40sm+)",
+      "category1": "M (15-20sm)",
+
+      "img": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622058006/xirlodkjsflfwzkuhdtt.jpg",
+      "img2": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618344160/je2siddvtjobqnvc14ic.jpg",
+      "img3": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1622058039/iyt85l34xgoof3u24afj.jpg",
+      "img4": "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1618344204/ariigafuzyufy8yprmud.jpg"
+    }
+  ],
+  "care": [
+    {
+      "id": 41,
+      "name": "Bağ əlcəkləri",
+      "price": "18.00",
+      "like1": "Tesvir",
+      "main1": " Kirdə oynayarkən əllərinizi təmiz saxlayın. Yaşıl Bağ Əlcəklərimiz həm qapalı, həm də açıq bağ işləri üçün uyğundur, o cümlədən alaq otlarının təmizlənməsi, ölü başlıqların çıxarılması və əkilməsi. Elastikliyə imkan vermək üçün neylon qabıqla dizayn edilmiş və lateks dip ilə tamamlanan bu əlcəklər üstün təbii tutuş təmin edir. Su keçirməz və maşında yuyula bilər.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçü: 4 barmağın ətrafı 7”–7,75”; orta barmağın uzunluğu 3-3,5 ",
+      "a2": "2.Materiallar: Neylon (qabıq) və Lateks Köpük (xurma + barmaqlar)",
+      "a3": "3.Su keçirməz və maşında yuyula bilər",
+      "category": "Bag ucun elcekler",
+      "botanicalName": "Davamlı və yüngül olan Yaşıl Bağçılıq Əlcəkləri sizə qapalı və açıq bağçılıq, alaq otları və bitki baxımı üçün çevik əl müdafiəsi təmin etmək üçün forma uyğun gəlir. Avuç içi və barmaqlar üzərində lateks köpüklə möhürlənmiş bu əlcəklər elastiklikdən ödün vermədən nəm saxlamağa kömək edir.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_green-gloves_1-scaled.jpg?ver=768002",
+      "img2": "https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_green-gloves_2-scaled.jpg?ver=767937",
+      "img3": "https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_green-gloves_1-scaled.jpg?ver=768002",
+      "img4": "https://bloomscape.com/wp-content/uploads/2019/03/bloomscape_microfiber-glove_bird-of-paradise-scaled.jpeg?ver=575136",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Bitki Qulluq Dəsti",
+      "price": "45.00",
+      "like1": "Tesvir",
+      "main1": "Bitki Qulluq Dəstinə bitki baxım rejiminizi artırmaq üçün lazım olan hər şey daxildir. Cənab tropik bitkilərinizin ətrafındakı rütubəti artırmağa kömək edir və quru, xırtıldayan yarpaqların qarşısını almağa kömək edə bilər. Mikrofiber Toz Əleyhinə Əlcəklər tozlu otaq bitkilərinizi təmizləməyə kömək edir və optimal bitki sağlamlığı üçün günəş işığının daha asan sorulmasına imkan verir. Neem yağı ümumi zərərvericiləri və xəstəlikləri müalicə etmək və qarşısını almaq istəyən hər bir bitki sahibi üçün çox yönlü olmalıdır.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.1 Mister, 11,2 düym hündürlüyü, 3,3 düym eni (750 ml tutum)",
+      "a2": "2.1 cüt bej Mikrofiber əlcək (bir ölçü)",
+      "a3": "3.S1 şüşə istifadəyə hazır neem yağı, 32 Fl oz",
+      "category": "elcek",
+      "botanicalName": "Bitki baxımı rejiminə daxil olmaq üçün lazım olan hər şey. Rütubəti artırmaq üçün Mister, yarpaqlarınızı parlaq və təmiz saxlamaq üçün Mikrofiber Toz Əleyhinə Əlcəklər və bitkilərinizi zərərvericilərə və ya xəstəliklərə qarşı müalicə etmək üçün Neem Oil daxildir. Bizim Bitki Qulluq Dəstimiz, şübhəsiz ki, bitkilərinizə daha aktiv qulluq göstərməyə təşviq edəcəkdir.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_routine-plant-care-set_vertical.jpg?ver=611908",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_norfolk-pine_medium_mister.jpg?ver=611900",
+      "img3": "https://bloomscape.com/wp-content/uploads/2019/03/bloomscape_microfiber-glove_bird-of-paradise-scaled.jpeg?ver=575136",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_neem-oil1-scaled-e1625257356976.jpg?ver=337912",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Bağçılıq Alətləri Dəsti",
+      "price": "55.00",
+      "like1": "Tesvir",
+      "main1": "Başlanğıc Bağçılıq Alətləri Dəsti qapalı bitkilərə qulluq və bağçılıq üçün yeni olan hər hansı bir bitki həvəskarı üçün ideal hədiyyədir. Ən məşhur alətlərimizin üçlüyü, o cümlədən əl malası, bitki budayanlar və bitki kəsiciləri, hər şeyi nizamlı saxlamaq üçün davamlı alət rulonu ilə müşayiət olunur.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.11 neylon astarlı cibli 1 alət rulonu – 18” hündürlükdə, 22” enində",
+      "a2": "2.1 Əl Mala – eni 7 sm x ümumi uzunluq 30 sm",
+      "a3": "3.1 Bitki Budayıcı – eni 5 sm x uzunluq 15,5 sm",
+      "category": "Bitki aletleri",
+    
+
+      "botanicalName": "Həyatınızdakı yeni bitki toplayıcısı üçün ideal hədiyyə olan Başlanğıc Bağçılıq Alətləri Dəstində əl malası, bitki budayanlar və daxil edilmiş alət rulonunda səliqəli şəkildə yuvarlanan bitki kəsikləri var. Bu dəst bir neçə əsas vasitəyə ehtiyacı olan və onları mütəşəkkil və səliqəli saxlamaq istəyən başlanğıc bitki valideynləri üçün əladır.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_beginner-gardening-tool-set-scaled.jpg?ver=611890",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/08/bloomscape_ponytail-palm_plant-snips_color-edit.jpg?ver=582632",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/10/bloomscape_hand-trowel_4.jpg?ver=317990",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-roll_person2.jpeg?ver=559553",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Əllə toxunmuş Səbət",
+      "price": "25.00",
+      "like1": "Tesvir",
+      "main1": "Təbii xurma liflərindən əldə hazırlanmış Əl toxunuşu Orta Səbət orta ölçülü bitkilərimizdən birini nümayiş etdirmək üçün gözəl bir yoldur. Sadəcə olaraq saksı bitkinizi və nəlbəkinizi səbətin içərisinə qoyun və onun məkanınıza gətirdiyi isti, rahat teksturadan həzz alın. Taupe və Chrome iki rəngdə mövcud olan bu səbətlər məkanınıza müasir, təbii və sadə dekor üslubu təklif edir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Hündürlük: 7,87",
+      "a2": "2.Çap: 11,02 ",
+      "a3": "3.Çəki: 1.28 lbs",
+      "category": "Bitki aksesuarlari",
+      "botanicalName": "Bu gözəl əl işi toxunmuş səbətlər orta ölçülü bitkilərimizin hər hansı biri ilə mükəmməl birləşir. Meksikalı sənətkarlar tərəfindən təbii liflərdən hazırlanmış bu səbətlərin sadə dizaynı ev dekorunuza və bitki kolleksiyanıza heyranedici əlavə olacaqdır.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_woven-basket_medium_chome.jpg?ver=610392",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_woven-basket_medium_chome_detailplant.jpg?ver=610391",
+      "img3": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_woven-basket_medium_piedra_parlor-palm_medium-scaled.jpg?ver=610436",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_woven-basket_medium_piedra_detail-scaled.jpg?ver=610434",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Toz Əleyhinə Əlcəklər",
+      "price": "28.00",
+      "like1": "Tesvir",
+      "main1": "Bitki yarpaqlarını və yarpaqlarını tozdan təmizləmək bitki sağlamlığı üçün vacibdir. Fotosintez üçün günəş işığının daha yaxşı mənimsənilməsini təmin etmək üçün kir, toz, allergenlər və ev heyvanlarının tüklərini təmizləməyə kömək edən Mikrofiber Toz Alma Əlcəkləri ilə bitkilərinizi təmizləməyi asanlaşdırın..",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.1 cüt bej Mikrofiber əlcək (bir ölçü)",
+      "category": "Toz eleyhine elcekler",
+      "botanicalName": "Mikrofiber əlcəklər bitkilərinizin yarpaqlarını tozdan və digər zibillərdən uzaq tutmağın asan və səmərəli üsuludur, daha yaxşı bitki sağlamlığı üçün günəş işığının daha asan udulmasına imkan verir.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_microfiber-dusting-glove_in-use.jpg?ver=553250",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_microfiber-dusting-glove_on-hand.jpg?ver=553252",
+      "img3": "https://bloomscape.com/wp-content/uploads/2019/03/bloomscape_microfiber-glove_bird-of-paradise-scaled.jpeg?ver=575136",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_microfiber-dusting-glove_main.jpg?ver=553251",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Zərərvericiləre qarşı mübarizə ",
+      "price": "26.00",
+      "like1": "Tesvir",
+      "main1": "Bitkilərinizin sağlamlığını qorumaq üçün zəruri olanları yığın. Bitkilər canlı olduqları üçün, hətta qapalı şəraitdə olsalar da, həyatları boyu xəstəliklər inkişaf etdirə və ya zərərvericiləri cəlb edə bilərlər. Bağ Zərərvericiləri ilə Mübarizə Dəstində hörümçək gənələrindən tutmuş toz kifinə qədər hər şey daxil olmaqla, aktiv problemləri müalicə etmək və gələcək epidemiyaların qarşısını almaq üçün sizə lazım olan şeylər var.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.1 şüşə Insektisid Sabun - 24 Fl oz",
+      "a2": "2.1 şüşə Dead Bug Brew – 32 Fl oz",
+      "a3": "3.1 şüşə Mis Funqisid – 32 Fl oz",
+      "a4": "4.1 şüşə Neem Oil – 32 Fl oz",
+      "a5": "5.1 paket Sticky Stakes – 7 tələ, 7 çubuqdan ibarətdir",
+      "category": "dez",
+      "botanicalName": "Bağ Zərərvericilərə Nəzarət Setində bitkilərinizi xəstəliklərdən və zərərvericilərdən təmiz saxlamaq üçün lazım olan hər şey var.  Həyatınızdakı bitkilər üçün mükəmməl hədiyyə.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_garden-pest-control-set_vertical.jpg?ver=611904",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/blomscape_sticky-stakes2-scaled-e1625257458508.jpg?ver=337842",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_neem-oil1-scaled-e1625257356976.jpg?ver=337912",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_copper-fungicide1-scaled-e1625257768792.jpg?ver=337856",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Suvarma qabı",
+      "price": "12.00",
+      "like1": "Tesvir",
+      "main1": "Kim bağçılıq alətlərinin minimal dekor parçası kimi ikiqat ola bilməyəcəyini söyləyir? Bu gözəl Böyük Suvarma qabı 120 unsiya su tutduğu üçün bambuk xurma, canavar və pul ağacımız da daxil olmaqla daha böyük bitkiləri suvarmaq üçün idealdır. Parlaq ağ örtüklü və təmiz taxta qolu olan sinklənmiş poladdan hazırlanmış bu zərif bitki aləti bitkilərinizin suvarılmasını qəşəng göstərir. Suvarma arasında minimalist dekor parçası kimi kitab rəfinə qoyun. Bu suvarma qutusu yaşıl həyat tərzinə mükəmməl əlavədir. Qalayı və plastiki atın və bu gözəl, davamlı suvarma qabını bu gün tutun.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Çəki: 1 lb",
+      "a2": "2.Ölçülər: 14.25 ″ x 6.50 ″ x 10.75 ″ ",
+      "a3": "3.Tutumu: 120 oz",
+      "a4": "4.Material: sinklənmiş polad və taxta sap",
+      "category": "Suvarma qablari",
+      "botanicalName": "Suvarma qabı mütləq bitki alətidir və bu qəşəng, parlaq ağ suvarma qabı daha böyük qapalı bitkilərinizi suvarmaq üçün mükəmməldir. Sinklənmiş poladdan hazırlanmışdır, ləkəyə, korroziyaya və pasa davamlıdır. 120 unsiya su tutaraq, susuz bitkilərinizə içki vermək və siz bu suda olarkən dəbli görünmək üçün bu Böyük Suvarma qabından istifadə edin..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_watering-can_large_1-1-e1625254343318.jpg?ver=302486",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_watering-can_large_2-1.jpg?ver=302487",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/07/bloomscape_product_watering-can_large-3-scaled.jpg?ver=253994",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_watering-can_large_1-1-e1625254343318.jpg?ver=302486",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Mister",
+      "price": "12.00",
+      "like1": "Tesvir",
+      "main1": "Bitkiləriniz havada əlavə nəmlik istəyirsə, Mossify Mistr, bitkilərinizi inkişaf etmək üçün lazım olan rütubətlə təmin etmək üçün sizə lazım olan şeydir. Bu tam doldurulan mister ilə bir daha heç vaxt əl ilə sprey şüşəsinə ehtiyacınız olmayacaq. Bitkiləriniz üçün rütubətin artırılmasını asanlaşdıran davamlı incə duman təmin edir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçülər: 11.2 (hündürlük) x 3.3 (en)",
+      "a2": "2.Tutum: 750 ml-ə qədər su saxlayır",
+      "category": "dezinfeksiya",
+      "botanicalName": "Tamamilə doldurula bilən Mossify Mistr istifadə edərək bitkiləriniz üçün rütubəti artırın. Bir kliklə, bütün tropik yarpaqlarınıza əlavə rütubət təmin etmək üçün davamlı incə duman əldə edəcəksiniz. 750ml tutumu olan bu zərif və dəbli mister bitkilərinizin havadakı əlavə nəmliyə görə sizə təşəkkürünü bildirəcək..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_mister_in-use.jpg?ver=559531",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_mister_in-hand.jpg?ver=559530",
+      "img3": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_mister_on-table.jpg?ver=559532",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/12/Bloomscape_Mossify_Mistr-scaled.jpg?ver=639452",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Alət önlük",
+      "price": "32.00",
+      "like1": "Tesvir",
+      "main1": " İl boyu istifadə üçün suya davamlı pambıq kətan ilə hazırlanmış davamlı, 10 cibli alət önlükümüzlə daha səmərəli bağ edin. Alət və dəsmal ilmələri və tənzimlənən bel kəməri ilə Alət Apronumuz istənilən bağban üçün vacib bağçılıq aksesuarı edir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.5 xarici kətan qatlı ciblər",
+      "a2": "2.1 dəsmal ilgəsi",
+      "a3": "3.Suya davamlı pambıq kətan xarici",
+      "category": "indoor",
+      "botanicalName": "Hərəkətdə olan bağban üçün Alət Apronumuz bitkilərə qulluq edərkən sizə lazım olan hər şeyi saxlamaq üçün mükəmməldir. Tənzimlənən bel kəməri, isti yay günləri üçün əl dəsmalı ilgəsi və 10 gücləndirilmiş cib ilə düşünülmüş şəkildə dizayn edilmiş suya davamlı pambıq kətan önlükümüz hər bir bitki həvəskarı üçün mütləq olmalıdır..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-apron2.jpeg?ver=559540",
+      "img2": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-apron_detail1.jpeg?ver=559543",
+      "img3": "https://bloomscape.com/wp-content/uploads/2021/08/bloomscape_toolapron_empty_color-edit.jpg?ver=582638",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-apron_detail2.jpeg?ver=559542",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Bitki qırıntıları",
+      "price": "12.00",
+      "like1": "Tesvir",
+      "main1": " Paslanmayan poladdan, paslanmayan uclu bıçaqlardan və rahat tutma sapından ibarət olan bu Bitki Snipsləri hər bir bağban üçün vacib alətdir. İncə və orta gövdələri budamaq və budamaq, tükənmiş yarpaqları çıxarmaq və çiçək və meyvələri yığmaq üçün idealdır, bizim yay yüklü kəsiklərimiz həm qapalı, həm də açıq bitkilər üçün əladır.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçüləri: 19sm x 5.5sm x 2sm",
+      "a2": "2.Çəkinin çəkisi: 120 q",
+      "category": "Kesme aletleri",
+      "botanicalName": "Bu yüksək keyfiyyətli, paslanmayan poladdan hazırlanmış Bitki Snipsləri asanlıqla budanacaq, kəsəcək və məhsul yığacaq! Bu çox yönlü alət qapalı və açıq bitkilərdə istifadə üçün əladır. Bu snips filodendronlar, pothos, tradescantias . Bitkilər arasında hər hansı bir bakteriya yayılmasının qarşısını almaq üçün bıçaqları hər kəsmə arasında spirtlə silin..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-snips_2-e1625255298683.jpg?ver=302444",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-snips_3.jpg?ver=302445",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-snips_1.jpg?ver=302443",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-snips_2-e1625255298683.jpg?ver=302444",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Bitki budayan",
+      "price": "14.00",
+      "like1": "Tesvir",
+      "main1": "Paslanmayan poladdan, paslanmayan bıçaqlara və rahat tutma sapına malik olan bu Bitki Budayıcı böyük gövdələr və sərt budaqlar kimi daha qalın kəsiklər üçün idealdır və bitki baxımını asanlaşdırır. Ev bitkilərinin və açıq kolların müntəzəm olaraq budaması daha dolğun böyümə və xoşbəxt, sağlam yaşıllıqları təşviq etmək üçün vacibdir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçülər: en 5 sm x uzunluq 15,5 sm",
+      "category": "Kesme aletleri",
+      "botanicalName": "Bu yüksək keyfiyyətli paslanmayan poladdan hazırlanmış Bitki Budayıcı böyük gövdələri . Odunlu otaq bitkilərindən tutmuş açıq kol və ağaclara qədər bu alət istənilən bağban üçün faydalıdır. Ficus, norfolk şamı, şefflera. Bitkilər arasında hər hansı bir bakteriya yayılmasının qarşısını almaq üçün bıçaqları hər kəsmə arasında spirtlə silin.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-pruner_2-e1625255374171.jpg?ver=302442",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_houseplant-pruner_1-1.jpg?ver=302472",
+      "img3": "https://bloomscape.com/wp-content/uploads/2021/08/bloomscape_toolapron_empty_color-edit.jpg?ver=582638",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-apron_detail2.jpeg?ver=559542",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Torpaq qabığı",
+      "price": "32.00",
+      "like1": "Tesvir",
+      "main1": "Həm qapalı, həm də açıq bağbanlar üçün vacib bir vasitə olan bu Torpaq Çömçəsi, otaq bitkilərinizi köçürərkən və ya şitil əkərkən maksimum səmərəlilik üçün bir anda çoxlu miqdarda torpağı köçürməyə imkan verir. Hündür arxa və yanlar torpağı çantadan qazana və ya bağçaya apararkən onu yerində saxlayır.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçülər: Eni 8,5 sm x ümumi uzunluq 31 sm",
+      "category": "Kesme aletleri",
+      "botanicalName": "Bu paslanmayan poladdan hazırlanmış Torpaq çömçəsi həm qapalı, həm də açıq bitkilərin köçürülməsi . Bu alət səxavətli miqdarda torpağı bir anda köçürməyə imkan verir və yerləşdirərkən yavaş-yavaş salınan gübrə ilə qarışdırmaq üçün faydalıdır. Bu faydalı aləti kolleksiyanıza əlavə edin və bitkilərinizi asanlıqla köçürün..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_soil-scoop_1-e1625254729119.jpg?ver=302452",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_soil-scoop_2.jpg?ver=302454",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_soil-scoop_3.jpg?ver=302455",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_hand-trowel_4.jpg?ver=302440",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Kəsmə aləti",
+      "price": "17.00",
+      "like1": "Tesvir",
+      "main1": " Kəsmə aləti bağçanın arsenalında olması üçün inanılmaz faydalı vasitədir. Dişli kənarı və güclü bıçağı ilə torpaq bıçağımız itaətsiz kökləri gevşetməyə və kəsməyə kömək etməklə bütün ölçülü yaşıllıqların yenidən əkilməsinə kömək edir. Fidanları bağ çarpayılarına və qablara dəqiq yerləşdirmək üçün transplantasiyada da istifadə edilə bilər. Bıçaq dəqiq əkin üçün dərinlik işarələrinə malikdir. Bu kəsici alət alaq otlarının təmizlənməsi və ümumi bağ baxımı üçün də əladır. Burgon & Ball tərəfindən yüksək keyfiyyətli materiallardan hazırlanmış bu çox yönlü aləti hər bir bağbana tövsiyə edirik.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçülər: en 6.35 sm x ümumi uzunluq 29 sm",
+      "category": "Kesme aletleri",
+    
+      "botanicalName": "Bu iki tərəfli Kəsmə Aləti bağçanızı köçürmək, köçürmək, alaq otlarından təmizləmək və ona qulluq etmək üçün faydalıdır. Dəqiq deliklər qazın və ya iti kənarları ilə alaq otlarını asanlıqla kökündən çıxarın. İtaətsiz kökləri və ya dolaşıq gövdələri dilimləmək üçün dişli tərəfdən istifadə edin. Bıçaq üzərində dərinlik işarələri ilə dəqiq əkin etməyə imkan verir. ",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/07/bloomscape_product_soil-knife-scaled.jpg?ver=240174",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/07/bloomscape_product_soil-knife_detail-scaled.jpg?ver=240178",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/07/bloomscape_product_soil-knife_detail2-scaled.jpg?ver=240173",
+      "img4": "https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_tool-apron_detail2.jpeg?ver=559542",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Budama qayçı",
+      "price": "21.00",
+      "like1": "Tesvir",
+      "main1": "Ən dəqiq budama vasitəsi. Bu Budama Qayçıları çətin əldə edilən yerlər üçün nəzərdə tutulub. Onlar ev bitkilərindəki kiçik yarpaqları və ölü çiçəkləri çıxarmaq üçün əladır. Uzun sapı və iti bıçaqları olan budama qayçılarımız mümkün olan ən təmiz kəsimi təmin edir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1. Ölçülər: en 8.6 sm x uzunluq 20.3 sm",
+      "category": "",
+     
+      "botanicalName": "Bu yüksək keyfiyyətli paslanmayan poladdan budama qayçıları çətin əldə edilən yerləri kəsmək üçün əladır. Kiçik bitkilərinizi ferns, hoyas və otlar kimi daha incə gövdələrlə budamaq üçün bu qayçı istifadə edin. Bunlar həmçinin kalateyalarda, dua bitkilərində, xurmalarda, dracaenalarda və daha çox yarpaqları kəsmək üçün faydalıdır. ",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_pruning-scissors_3-e1625255483463.jpg?ver=302450",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_pruning-scissors_1.jpg?ver=302447",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_pruning-scissors_2.jpg?ver=302449",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_pruning-scissors_4.jpg?ver=302451",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Palma Qida Gübrəsi",
+      "price": "28.00",
+      "like1": "Tesvir",
+      "main1": "Xüsusi olaraq xurma üçün hazırlanmış əsas qida maddələri ilə qarışdırılmış Jack's Palm Food Fertilizer (16-5-25) ovucunuzu xoşbəxt və sağlam saxlamaq üçün Azot, Fosfor və Kaliumun mükəmməl qarışığına malikdir. Zərərli duzların yığılmasının qarşısını almaq üçün hazırlanmış Palm Qida Gübrəsi sulu yaşıllıq və güclü köklər əmələ gətirmək üçün əsas mikroelementləri təmin edir. Bonus: bu gübrə Dracaenasda da istifadə edilə bilər.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Ölçü qaşığı ilə 1,5 lb çəllək",
+      "category": "gubre",
+      "botanicalName": "Xurma üçün xüsusi olaraq hazırlanmış bu təsirli Palma Qida Gübrəsi aktiv vegetasiya dövründə bitkinizin ehtiyac duyduğu qida maddələrini artırır. Bonus olaraq, bu formula Dracaenas ilə də yaxşı işləyir. Avuçlarınızın çiçəklənməsi üçün yaz və yay aylarında bunu hər ay istifadə edin.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_jacks-palm-food5-scaled-e1625257628630.jpg?ver=337899",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_jacks-classic-palm-food_detail-scaled.jpg?ver=337891",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_jacks-classic-palm-food-scaled.jpg?ver=337892",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_jacks-palm-food1-scaled.jpg?ver=347793",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Maye mis funqisid",
+      "price": "16.00",
+      "like1": "Tesvir",
+      "main1": " Bonide Maye Mis Funqisidi inadkar və yerləşmiş infeksiyalar üçün effektiv funqisiddir. Aşağı mis konsentrasiyalarından istifadə edərək, bu istifadəyə hazır sprey qara ləkə, toz küf, tüklü küf və erkən zərərverici kimi müxtəlif zərərverici və göbələk problemləri ilə mübarizə aparmağa kömək edir. Bu faydalı məhsul infeksiya baş verdikdə əlinizdə olması əladır..",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.İstifadəyə hazır sprey, 32 Fl oz",
+      "category": "dez",
+      "botanicalName": "İstifadəyə hazır olan bu funqisid bitkilərinizdə inadkar qurulmuş göbələk infeksiyaları ilə mübarizə aparır. Yarpaq ləkəsindən tozlu küfə qədər, Bonide Maye Mis Funqisidi effektiv müalicədir və üzvi bağçılıq üçün uyğundur..",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_copper-fungicide1-scaled-e1625257768792.jpg?ver=337856",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_copper-fungicide2-scaled.jpg?ver=337858",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_copper-fungicide-scaled.jpg?ver=337855",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_captain-jacks-deadbug1-scaled-e1625257813340.jpg?ver=337850",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "İnsektisid Sabun",
+      "price": "19.00",
+      "like1": "Tesvir",
+      "main1": "Garden Safe® Insektisid Sabunu istifadə edərək müxtəlif zərərvericiləri məhv edin. Bu istifadəyə hazır sprey təmasda olan aphidləri, mealybugları, gənələri, yarpaqları, psyllidləri, miqyaslı həşəratları, tripsləri və ağ milçəkləri öldürə bilər. Məhsul gününə qədər Yeməklərə tətbiq oluna bilər.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.İstifadəyə hazır sprey, 24 Fl oz",
+      "category": "dez",
+      "botanicalName": "Garden Safe® tərəfindən hazırlanmış bu insektisid sabunu ilə təmasda olan zərərvericiləri öldürün. Bu sprey aphidlər, gənələr və miqyas da daxil olmaqla müxtəlif zərərvericiləri müalicə etmək üçün əladır. İnsektisid sabunu həm qapalı, həm də açıq bitkilər üçün istifadə edilə bilər. Üzvi bağçılıq üçün uyğundur, bu məhsul yığımına qədər istifadə edilə bilər.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_insecticidal-soap1-scaled-e1625257847840.jpg?ver=337885",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_insecticidal-soap-scaled.jpg?ver=337884",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_insecticidal-soap2-scaled.jpg?ver=337887",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_captain-jacks-deadbug1-scaled-e1625257813340.jpg?ver=337850",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Vaza",
+      "price": "27.00",
+      "like1": "Tesvir",
+      "main1": " Təzə cücərmiş yarpaqların və köklərin gözəlliyini qeyd etmək üçün Yaponiyada əl işi olan Böyük KINTO Çoxalma Vaza təzə şlamlara qulluq etməyi asanlaşdırır. İki hissədən - boşqab və vazadan ibarət olan bu sənət əsəri ampüller, otlar və hətta böyük toxumlar da daxil olmaqla bitkilərin çoxaldılması üçün mükəmməl formalaşdırılıb. Kasaya bənzər boşqab vazanın boynuna daxil edilir və aşağıda olan su ilə dəstəklənən böyüyən yarpaqları dəstəkləyir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Hündürlük: 7.6",
+      "a2": "2.Çəkisi: 28.2 oz",
+      "a3": "3.Material: 100% Soda şüşəsi",
+      "category": "Suvarma qablari",
+      "botanicalName": "Təbliğatla maraqlanırsınız? Bu Böyük KINTO Çoxalma Vazası sizə şlamlarınızı gözəl şəkildə nümayiş etdirməyə və ya lalə və avokado kimi soğan və toxum yetişdirməyə imkan verir. Minimalist dizayndan ilhamlanan və gündəlik istifadəni nəzərə alaraq əl işi olan bu vaza bitki ailəsini çoxaltmaq istəyən hər bir ehtiraslı bitki valideyni üçün praktikdir.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_kinto-vase-large_3-scaled-e1625255704511.jpg?ver=364071",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_kinto-vase-large_1-scaled.jpg?ver=364067",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_kinto-vase-large_2-scaled.jpg?ver=364070",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_kinto-vase-small_1-scaled.jpg?ver=364074",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Asma nelbeki",
+      "price": "27.00",
+      "like1": "Tesvir",
+      "main1": "Ecopots Asma Nəlbəki, bu unikal asma gəmi ilə bitkilər göstərməklə bitki oyununuzu yüksəltmək üçün əla bir yoldur. Onun minimal dizaynı bitkilərinizi gözəl şəkildə tamamlayacaq və qonaqlarınızın diqqətini çəkəcəkdir. Ecopots Asma Nəlbəki iki kiçik bitki, bir orta bitki və ya əlavə kiçik bitkilərin bir tam kolleksiyasını asmaq üçün nəzərdə tutulmuşdur. İstədiyiniz uzunluğa kəsilə bilən naqillərlə bu, istənilən bitki dekorasiyasını gücləndirmək üçün xüsusi aksesuardır.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1.Diametr 14.17 ″ x Hündürlük 29.53 ″ (nəlbəki üçün 1.18 ″ hündürlük)",
+      "category": "Bitki aksesuarlari",
+      "botanicalName": "Tənzimlənən Ecopots Asma Nəlbəki ilə bitki oyununuzu yüksəldin. Minimalist dizaynı olan və 80% təkrar emal edilmiş plastikdən hazırlanmış bu asma nəlbəki iki kiçik bitki, bir orta bitki və ya əlavə kiçik bitkilərin tam kolleksiyasını nümayiş etdirmək üçün unikal üsuldur. Müxtəlif rənglərdə təqdim olunan bu suya davamlı.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_hanging-saucer_charcoal.jpg?ver=302371",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_hanging-saucer_clay.jpg?ver=302372",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_hanging-saucer_detail.jpg?ver=302374",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_hanging-saucer_detail.jpg?ver=302374",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Bitki Askısı",
+      "price": "33.00",
+      "like1": "Tesvir",
+      "main1": "Soul of the Party tərəfindən hazırlanmış əl işi Makrome Bitki Askısı ilə bitkilərinizi gözəl şəkildə nümayiş etdirin. Davamlı materiallardan hazırlanmış bu 100% pambıq asılqan, nümayiş olunan istənilən bitkiyə boho üslubunda toxunuş əlavə edir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1. Uzunluq: 37",
+      "category": "Bitki aksesuarlari",
+      "botanicalName": "100% pambıqdan hazırlanmış bu əl işi Makrome Bitki Askısı ilə kiçik və ya orta ölçülü bitkiləri gözəl şəkildə nümayiş etdirin. Pothos, dua bitkiləri, filodendronlar və aşağıya doğru gedən digər bitkilərlə yaxşı birləşir və istənilən otaqda sulu bir görüntü yaradır. Bu makrome bitki asılqısı, super qəşəng olmaqla yanaşı",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_plant-hanger-scaled-e1625255762795.jpg?ver=337917",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_plant-hanger_detail3-scaled.jpg?ver=337916",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_plant-hanger_detail1-scaled.jpg?ver=337915",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_plant-hanger-scaled-e1625255762795.jpg?ver=337917",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Divar Askısı",
+      "price": "23.00",
+      "like1": "Tesvir",
+      "main1": "Bu, nənənizin bitki asması deyil. Bu minimal, müasir asılqanla sevimli bitkilərinizi tamamilə yeni şəkildə göstərin - palıd və pambıq sapdan əl istehsalı. Montaj üçün vintlər və lövbərlər daxildir.",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1. Uzunluq: 37",
+      "category": "Bitki aksesuarlari",
+      "botanicalName": "Palıd və pambıq sapından əl işi olan bu müasir bitki asılqanında bir kiçik bitki var.",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_loop-hanger_cream.jpg?ver=302395",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_loop-hanger_detail.jpg?ver=302396",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_loop-hanger_person-1.jpg?ver=302467",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/02/bloomscape_product_loop-living-hanger-navy1.jpg?ver=129090",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Poladdan suvarma qabı",
+      "price": "22.00",
+      "like1": "Tesvir",
+      "main1": "Kim bağçılıq alətlərinin minimal dekor parçaları kimi ikiqat ola bilməyəcəyini söyləyir? The Floral Society-dən olan bu davamlı, paslanmayan poladdan suvarma qabı bütün qapalı və açıq bağçılıq işləri üçün vacib vasitədir. Dizayn həm müasir, həm də funksionaldır, tutması asan, əyri sapı və uzadılmış musluğu ilə. Əl ilə işlənmiş toz boyalı paslanmayan poladdan hazırlanmışdır. 2.25 litr tutur",
+      "like2": "Xüsusiyyətlər:",
+      "a1": "1. Uzunluq: 37",
+      "category": "Suvarma qablari",
+      "botanicalName": "Minimal and modern watering can, perfect for watering large and extra-large plants",
+      "quantity": "1",
+      "img": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_white-watering-can2-scaled-e1625255198950.jpg?ver=337929",
+      "img2": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_white-watering-can4-scaled.jpg?ver=337931",
+      "img3": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_white-watering-can1-scaled.jpg?ver=337928",
+      "img4": "https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_white-watering-can2-scaled-e1625255198950.jpg?ver=337929",
+      "src": [
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1636715657/edytbvkaslziwmpnkzum.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1535552273/products/chinese-money-plant-ab109e.jpg",
+        "https://res.cloudinary.com/patch-gardens/image/upload/c_fill,f_auto,h_840,q_auto:good,w_840/v1595236422/cxexpthnkvnssz3zcelz.jpg"
+      ]
+    }
+  ],
+  "qulluq":[
+    { 
+      "id":70,
+      "img":"https://bloomscape.com/wp-content/uploads/2019/09/succulents-2-1500x1500.jpg?ver=68874",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/06/bloomscape_cacti-succulent-group5_Edited-1024x853.jpg?ver=902558",
+      "img2":"https://bloomscape.com/wp-content/uploads/2018/04/180404_promo_plant-love_image.jpg?ver=1341",
+      "img3":"https://bloomscape.com/wp-content/uploads/2019/09/succulents-1.jpg?ver=68873",
+      "img4":"https://bloomscape.com/wp-content/uploads/2020/10/bloomscape_holiday-succulent_collection_kalanchoe-flapjack-1280x1536.jpg?ver=321426",
+      "img5":"https://bloomscape.com/wp-content/uploads/2019/09/190922-succulents_0002_succulents-blog-post-ponytail-palm.jpg?ver=68872",
+      "category":"qaygi",
+      "name":" Sağlam qapalı sukkulentlər üçün bitki baxım məsləhətləri",
+      "name1":"Əyləncəli, kolleksiya edilə bilən və çoxlu rənglər və teksturalarda mövcuddur - sukkulentlər haqqında nəyi sevməmək lazımdır?"
+    },
+    {
+      "id":71,
+      "img":"https://bloomscape.com/wp-content/uploads/2019/06/20190529_Kitchen_Vignette2_0031-2-324x216.jpg?ver=33840",
+      "img1":"https://bloomscape.com/wp-content/uploads/2020/04/indoor-cactus-care_-1-1024x855.png?ver=184863",
+      "img2":"https://bloomscape.com/wp-content/uploads/2021/07/bloomscape_cacti-collection_xs_old-woman-cactus_detail-1296x1536.jpg?ver=559421",
+      "img3":"https://bloomscape.com/wp-content/uploads/2020/04/indoor-cactus-care_post-img-1.png?ver=184867",
+      "img4":"https://bloomscape.com/wp-content/uploads/2019/03/bloomscape_peopleplants_prickly-pear-cactus.jpg?ver=19355",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/05/202107_Bloomscape_Lifestyle-Home-Office_0043-1024x683.jpg?ver=790170",
+      "category":"meslehet",
+      
+      "name":" Bu Yay Baxımı Məsləhətləri ilə Ev Bitkilərinizi Müalicə Edin",
+      "name1":"Çox güman ki, daha yüksək işıq, daha uzun günlər və yazın daha isti temperaturları sayəsində otaq bitkilərində bəzi böyük yeni böyümələr görmüsünüz.İndi yay rəsmi olaraq gəldi, bitkilərin tezliklə yavaşlamasını gözləməyin! Bütün bu yeni böyüməni inkişaf etdirməyə kömək etmək üçün ən yaxşı yay ev bitkilərinə qulluq məsləhətlərimizi paylaşırıq.Yəqin ki, son bir neçə ay ərzində qayğı rutininizdə böyük bir dəyişiklik görmüsünüz! Bitkilər təbii olaraq ətraf mühitə reaksiya verirlər. Yay bərabərliyi yaxınlaşdıqca günlər ilin istənilən vaxtından daha uzun olur."
+    
+    },
+    {
+      "id":72,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/05/iStock-1187435848-324x216.jpg?ver=790109",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/03/image-2-2-e1648762508722.png?ver=753627",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/03/Impatiens-Fiesta-Bonita-White-Detail-e1648670715784-1024x1227.jpg?ver=696372",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/03/Petunia-CannonBall-Pink-Detail-e1648670627275-1024x1229.jpg?ver=696376",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/03/Coleus-Heartbreaker-Detail-e1648670810876-1024x1229.jpg?ver=696367",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/03/bloomscape_propagating8-1024x683.jpg?ver=732685",
+      "category":"qaygi",
+      
+      "name":"Ev bitkiləri ilə hərəkət etmək üçün bir bitki mütəxəssisindən məsləhətlər",
+      "name1":"Köçürülmək stresli ola bilər və sevimli otaq bitkiləri kolleksiyasına əlavə etdiyiniz zaman bu, tamamilə həddən artıq ağır ola bilər."
+
+    },
+    {
+      "id":73,
+      "img":"https://bloomscape.com/wp-content/uploads/2020/04/indoor-cactus-care_-1-324x270.png?ver=184863",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/05/iStock-1187435848-1024x683.jpg?ver=790109",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/05/Bloomscape_Spring20_081-1024x683.jpg?ver=790178",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/03/bloomscape_pothos_collection_pearls-jade-1024x1229.jpg?ver=732673",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/03/Bloomscape_PonyTailPalm_xs_Clay-1024x1280.jpg?ver=732674",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/03/Bloomscape_Sansevieria_xs_basalt_Angle2-1024x1280.jpg?ver=732675",
+      "category":"qaygi",
+     
+      "name":"Bu Olmaz Ev Bitkiləri ilə Baharı Məkanınıza Dəvət Edin",
+      "name1":"Kaktuslar dünyanın ən sərt, qısır mühitlərindən yaranır. Onların su saxlama qabiliyyəti və mumla örtülmüş dəriləri onları sıx günəş işığı, fırlanan toz və yalnız arabir yağan yağışlı bir həyat üçün hazırlayır."
+
+    },
+  
+    {
+      "id":74,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/03/image-2-2-e1648762495933-324x433.png?ver=753627",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/03/iStock-1306470931-1024x1536.jpg?ver=697605",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/03/bloomscape_air-plant_small_detail2_Cropped-1-1024x1229.jpg?ver=697608",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/03/bloomscape_air-plant_large_detail5_Cropped-1-1024x1229.jpg?ver=697607",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/03/iStock-1214995753-1024x1534.jpg?ver=697613",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/03/iStock-530771485-1024x1535.jpg?ver=697615",
+      "category":"meslehet",
+     
+      "name":"Açıq çiçəklərə qulluq haqqında bilməli olduğunuz hər şey",
+      "name1":"Qarşıda isti hava və günəşli günlər olduğu üçün diqqətimizi açıq havaya yönəltməyin vaxtı gəldi."
+
+    },
+    {
+      "id":75,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_orchid-purple_group_Cropped-324x389.jpg?ver=763210",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_orchid-white_medium_detail3-1024x1229.jpg?ver=763212",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_orchid-purple_medium_detail4-1024x1229.jpg?ver=763214",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/04/bloomscape_orchid-purple_medium_charcoal-1024x1229.jpg?ver=763215",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/04/iStock-1365520145-1024x684.jpg?ver=763217",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/04/iStock-521421631-1024x1229.jpg?ver=763220",
+      "category":"qaygi",
+     
+      "name":"Orkide növləri və onlara qulluq üçün qapalı bağban bələdçisi",
+      "name1":"Zərif səhləbləri kim sevməz? Hədiyyə olaraq almısınızsa, onun əzəmətli çiçəklərinə heyran olmusunuzsa və ləçəklər düşən kimi onu buraxmağın vaxtının gəldiyini düşünürsünüzsə, əlinizi qaldırın. Sən tək deyilsən!"
+
+    },
+    {
+      "id":76,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/03/BloomscapeLocation5668-324x243.jpg?ver=732659",
+      "img1":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_bird-of-paradise_detail_600x600.jpg?ver=282338",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/01/bloomscape_wooden-plant-stool_beech_neon-prayer-plant-1024x1229.jpg?ver=660142",
+      "img3":"https://bloomscape.com/wp-content/uploads/2020/11/bloomscape_fiddle-leaf-fig_clay-edited-1024x1023.jpg?ver=325728",
+      "img4":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_kangaroo-fern_slate-e1625251211979-1024x1228.jpg?ver=279232",
+      "img5":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_dracaena-gold-lemon-lime_clay-1-1024x1251.jpg?ver=279720",
+      "category":"qaygi",
+      
+      "name":" Bitki Ana Başlanğıc Paketi: Houseplant səyahətinizə başlamaq üçün əsaslar",
+      "name1":"Bitkilərin Instagram lentlərimizi ələ keçirməsi və yazın davamlı əlamətlərinin görünməsi ilə siz bitki valideyni olmaq üçün ilk addımı atmağı düşünə bilərsiniz. Mövcud olan çoxlu məlumat və artan qadcetlər sizi hədsiz hiss edirsə, biz sizə müraciət edirik. Yalnız bir neçə şərtlə xoşbəxt, sağlam ev bitkiləri yetişdirməyi öyrənmək üçün oxuyun.Bloomscape-də biz hamıya qapalı bitkilərə qulluq etməyin əyləncəli, asan və inanılmaz dərəcədə faydalı olduğunu bildirmək missiyasındayıq. Bitkilər yalnız evinizə gözəllik gətirmir, həm də havanı təmizləyir və oksigen səviyyəsini artırır. Üstəlik, sadəcə bitkilərin yanında olmağın əhvalınızı yüksəltdiyi, məhsuldarlıq və yaradıcılıq səviyyənizi artırdığı sübut edilmişdir."
+
+    },
+    {
+      "id":77,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/03/bloomscape_air-plants_small-large-1-324x389.jpg?ver=697602",
+      "img1":"https://bloomscape.com/wp-content/uploads/2020/04/indoor-cactus-care_post-img-1-1024x1445.png?ver=184867",
+      "img2":"https://bloomscape.com/wp-content/uploads/2021/08/bloomscape_monstera_xl_detail-3-1024x1229.jpeg?ver=579202",
+      "img3":"https://bloomscape.com/wp-content/uploads/2021/12/Bloomscape_Jade_small_charcoal_Angle2-scaled-e1640212012283-1024x1280.jpg?ver=639513",
+      "img4":"https://bloomscape.com/wp-content/uploads/2021/03/bloomscape_pothos_collection_terra-cotta_crop0621-scaled-e1625247167764-1024x1228.jpg?ver=542186",
+      "img5":"https://bloomscape.com/wp-content/uploads/2020/01/191214_plant-mom-video-tour-30-1-scaled-e1580244921450-1024x525.jpg?ver=123267",
+      "category":"qaygi",
+     
+      "name":"Hava Bitkisinin Böyüməsi və Baxımı üçün Bağban Bələdçisi",
+      "name1":"Bitkilərin böyüməsi üçün torpağa ehtiyacı var... yoxsa onlar? Heç bir torpağa ehtiyac duymayan bitkilərin bütün kateqoriyasının olduğunu öyrəndikdə təəccüblənə bilərsiniz!"
+
+    },
+    {
+      "id":78,
+      "img":"https://bloomscape.com/wp-content/uploads/2020/05/bloomscape_indoor-outdoor_4-324x216.jpg?ver=217611",
+      "img1":"https://bloomscape.com/wp-content/uploads/2019/04/190311_bloomscape-spring-care-stills-17-e1554743669636-1024x726.jpg?ver=22203",
+      "img2":"https://bloomscape.com/wp-content/uploads/2019/04/190311_bloomscape-spring-care-stills-26-1024x680.jpg?ver=22212",
+      "img3":"https://bloomscape.com/wp-content/uploads/2020/12/bloomscape_product_watering-can_small-3-edited-1-1024x682.jpg?ver=346488",
+      "img4":"https://bloomscape.com/wp-content/uploads/2021/10/bloomscape_microfiber-dusting-glove_monstera_large_1x1-1536x1536.jpg?ver=603369",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/01/bloomscape_19-spring-lifestyle-23-1-1024x683.jpg?ver=663015",
+      "category":"meslehet",
+     
+      "name":"Yay üçün qapalı bitkilərinizi xaricə köçürməzdən əvvəl nələrə diqqət etməlisiniz",
+      "name1":"Yay havasının mülayim templərini və günəşli günlərini sevən tək siz deyilsiniz - bitkiləriniz də sevir!"
+
+    },
+    {
+      "id":79,
+      "img":"https://bloomscape.com/wp-content/uploads/2019/05/bloomscape_19-spring-lifestye-8-2-416x243.jpg?ver=26323",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/01/bloomscape_19-spring-lifestyle-22-1024x683.jpg?ver=663014",
+      "img2":"https://bloomscape.com/wp-content/uploads/2021/08/bloomscape_monstera_xl_peopleplants_color-edit-1024x1229.jpg?ver=582623",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/01/bloomscape_19-spring-lifestye-5-1024x683.jpg?ver=663021",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/01/20211020_Bloomscape_Winter-Holiday-Lifestyle_0931-1024x854.jpg?ver=663023",
+      "img5":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_blog_propagate-trailing-plants-10-1024x1024.jpg?ver=267764",
+      "category":"meslehet",
+     
+      "name":" Mübariz Otaq Bitkilərinizə Gübrə ilə Kömək Əlinizi Uzanın",
+      "name1":"Əgər qapalı bağçılıqda yenisinizsə, zaman keçdikcə bir zamanlar çiçəklənən bitkilərinizin yavaşladığını və ya hətta azalmağa başladığını görməkdən çəkinə bilərsiniz."
+
+    },
+    {
+      "id":80,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/02/202107_Bloomscape_Lifestyle-Home-Office_0002-324x216.jpg?ver=678652",
+      "img1":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_blog_propagate-trailing-plants-1024x1024.jpg?ver=267765",
+      "img2":"https://bloomscape.com/wp-content/uploads/2020/08/bloomscape_blog_propagate-trailing-plants-8-1024x1024.jpg?ver=267760",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/05/19-summer_fathers-day-1024x1024.jpg?ver=808377",
+      "img4":"https://bloomscape.com/wp-content/uploads/2022/05/BloomscapeLocation5133-1-1024x768.jpg?ver=808379",
+      "img5":"https://bloomscape.com/wp-content/uploads/2022/05/bloomscape_fathers-day-20-4-1024x1536.jpg?ver=808386",
+      "category":"qaygi",
+      
+      "name":"Bu Olmaz Ev Bitkiləri ilə Baharı Məkanınıza Dəvət Edin",
+      "name1":"Bahar düz küncdədir, bu daha uzun günlər, daha isti temperatur və bitkilərin həyata qayıtması deməkdir."
+
+    },
+    {
+      "id":81,
+      "img":"https://bloomscape.com/wp-content/uploads/2022/01/20211020_Bloomscape_Winter-Holiday-Lifestyle_0838-324x243.jpg?ver=663032",
+      "img1":"https://bloomscape.com/wp-content/uploads/2022/03/210218_bloomkits-lifestyle5_1487-1-1024x683.jpg?ver=753603",
+      "img2":"https://bloomscape.com/wp-content/uploads/2022/04/whimsical-collection-1-1-1024x512.png?ver=753867",
+      "img3":"https://bloomscape.com/wp-content/uploads/2022/04/tropical-collection-1-1-1024x512.png?ver=753869",
+      "img4":"https://bloomscape.com/wp-content/uploads/2020/06/bloomscape_peopleplants_bromeliad-pineapple-1024x1249.jpg?ver=230518",
+      "img5":"https://bloomscape.com/wp-content/uploads/2020/09/bloomscape_bromeliad-aechmea-pink_slate-edited-1024x1024.jpg?ver=288123",
+      "category":"meslehet",
+     
+      "name":" 6 Ümumi Bağlı Bitki Baxımı Səhvləri",
+      "name1":"Bağlı bitkilərlə başlamaqda maraqlısınız, lakin haradan başlayacağınızdan əmin deyilsiniz? O qədər asan baxımlı otaq bitkiləri var ki, hər kəs uğurla böyüyə bilər. İstənilən məkanda böyümək üçün 7 asan bitki haqqında öyrənmək üçün oxuyun      "
+
+    }
+  ]
+  
+}
