@@ -25,6 +25,7 @@ function Info() {
   const handelSebet = (index) => {
     let current = kart.filter(item => item.id == index.id)
     if (current.length > 0) {
+     
       return false
     } else {
       dispatch({ type: "Add_CARD", payload: index })
