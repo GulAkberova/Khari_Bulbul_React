@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/xarii-bulbul/static/css/main.39b25d27.css",
+    "main.js": "/xarii-bulbul/static/js/main.9732c38f.js",
+    "static/media/video.mp4": "/xarii-bulbul/static/media/video.7e9aec77dc3c22e23a65.mp4",
+    "static/media/video12.mp4": "/xarii-bulbul/static/media/video12.67c9382cbcecbc08f808.mp4",
+    "static/media/videoregis.mp4": "/xarii-bulbul/static/media/videoregis.ffb3da0a1c6b3ae6934d.mp4",
+    "static/media/video0.mp4": "/xarii-bulbul/static/media/video0.438bcf3a21d387703e99.mp4",
+    "static/media/pexels-teona-swift-6913717.jpg": "/xarii-bulbul/static/media/pexels-teona-swift-6913717.7b358eaa25e5a790aa0c.jpg",
+    "static/media/pexels-cottonbro-9725293.jpg": "/xarii-bulbul/static/media/pexels-cottonbro-9725293.4e8b43bba90432ac5a50.jpg",
+    "static/media/pexels-kseniya-budko-7941158 (1).jpg": "/xarii-bulbul/static/media/pexels-kseniya-budko-7941158 (1).a922c3c1fa254604997f.jpg",
+    "static/media/pexels-rubyand-lion-1118154.jpg": "/xarii-bulbul/static/media/pexels-rubyand-lion-1118154.14ee0d3161dabf6d05bc.jpg",
+    "static/media/pexels-gary-barnes-6231722.jpg": "/xarii-bulbul/static/media/pexels-gary-barnes-6231722.ccf7fb6e1a936363568d.jpg",
+    "static/media/pexels-ksenia-chernaya-3952031.jpg": "/xarii-bulbul/static/media/pexels-ksenia-chernaya-3952031.4fce8dbbd7f896c2c0ef.jpg",
+    "static/media/pexels-cottonbro-4503261.jpg": "/xarii-bulbul/static/media/pexels-cottonbro-4503261.f52ea0ccce448380294e.jpg",
+    "static/media/back.jpg": "/xarii-bulbul/static/media/back.930a879abb813e25b788.jpg",
+    "static/media/ofis.jpg": "/xarii-bulbul/static/media/ofis.3620c29079dce20d54c4.jpg",
+    "static/media/gift.jpg": "/xarii-bulbul/static/media/gift.3abb0f768a1c48b28096.jpg",
+    "static/media/qulluq.jpg": "/xarii-bulbul/static/media/qulluq.0e478544744c7fc704f5.jpg",
+    "static/media/bk1.webp": "/xarii-bulbul/static/media/bk1.3d86d028f96a845c7b01.webp",
+    "static/media/pexels-designecologist-1005058.jpg": "/xarii-bulbul/static/media/pexels-designecologist-1005058.0ce83d68bece8ed2333f.jpg",
+    "static/media/svg1.svg": "/xarii-bulbul/static/media/svg1.4841f365e9aaef6d559363ae59b6b77c.svg",
+    "static/media/svg3.svg": "/xarii-bulbul/static/media/svg3.82f0e9c0af655adac42edd12ae667047.svg",
+    "static/media/svg2.svg": "/xarii-bulbul/static/media/svg2.289a3cf89e3da01269aaec324987e762.svg",
+    "static/media/catdirilma.svg": "/xarii-bulbul/static/media/catdirilma.75c2b54abba45fceb27f39bca0180df9.svg",
+    "index.html": "/xarii-bulbul/index.html",
+    "main.39b25d27.css.map": "/xarii-bulbul/static/css/main.39b25d27.css.map",
+    "main.9732c38f.js.map": "/xarii-bulbul/static/js/main.9732c38f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b25d27.css",
+    "static/js/main.9732c38f.js"
+  ]
+}
