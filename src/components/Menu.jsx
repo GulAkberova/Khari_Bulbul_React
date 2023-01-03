@@ -2,15 +2,10 @@ import { useState, useRef, useEffect } from "react";
 import { NavLink, useLocation } from "react-router-dom";
 import { useSelector } from "react-redux";
 
-// import Aos from "aos";
-// import "aos/dist/aos.css"
-// import Why from './Why'
 import style from "./menu.module.css";
-import video4 from "./video/video12.mp4";
+// import video4 from "./video/video12.mp4";
 // import bk from './img/bk.webp'
 import bk1 from "./img/bk1.webp";
-// import b4 from './img/b4.webp'
-import video0 from "./video/video0.mp4";
 
 function Menu() {
   const node = useRef();

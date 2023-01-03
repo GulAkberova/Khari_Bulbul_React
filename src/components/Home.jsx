@@ -27,19 +27,19 @@ import { useSelector, useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
 
 function Home() {
-  const kart = useSelector((state) => state.cardReducer);
+  // const kart = useSelector((state) => state.cardReducer);
 
-  const dispatch = useDispatch();
+  // const dispatch = useDispatch();
 
-  const select = useSelector((state) => state.allDataReducer);
-  const handleSebet = (inner) => {
-    let currentData = kart.filter((index) => index.id == inner.id);
-    if (currentData.length > 0) {
-      return false;
-    } else {
-      dispatch({ type: "Add_CARD", payload: inner });
-    }
-  };
+  // const select = useSelector((state) => state.allDataReducer);
+  // const handleSebet = (inner) => {
+  //   let currentData = kart.filter((index) => index.id == inner.id);
+  //   if (currentData.length > 0) {
+  //     return false;
+  //   } else {
+  //     dispatch({ type: "Add_CARD", payload: inner });
+  //   }
+  // };
 
   return (
     <>
@@ -118,58 +118,7 @@ Ev bitkisinin evə səyahəti
           </p>
         </div>
 
-        {/* <Swiper
-          modules={[Navigation, Pagination, Scrollbar, A11y]}
-          spaceBetween={4}
-          slidesPerView={3}
-          breakpoints={{
-            600: {
-              slidesPerView: 1,
-              spaceBetween: 20,
-            },
-            768: {
-              slidesPerView: 2,
-              spaceBetween: 40,
-            },
-            1024: {
-              slidesPerView: 3,
-              spaceBetween: 50,
-            },
-          }}
-          navigation
-          onSlideChange={() => console.log("slide change")}
-          onSwiper={(swiper) => console.log(swiper)}
-        >
-          {select.map((index) => (
-            <SwiperSlide key={index.id} className={style1.div2}>
-              <div className={style1.cardDiv1}>
-                <div className={style1.img}>
-                  <Link to={`/item/${index.id}`}>
-                    <img src={index.img} alt="" />
-                    <img className={style1.block} src={index.img2} />
-                  </Link>
-                </div>
-                <div className={style1.cardMini1}>
-                  <h3>{index.name}</h3>
-                  <p>
-                    {index.price}
-                    <i class="fa-solid fa-manat-sign"></i>
-                  </p>
-
-                  <button
-                    onClick={() => handleSebet(index)}
-                    className={style1.btn2}
-                  >
-                    <p>
-                      {" "}
-                      <i class="fa-solid fa-cart-shopping"></i> Sebete elave et
-                    </p>
-                  </button>
-                </div>
-              </div>
-            </SwiperSlide>
-          ))}
-        </Swiper> */}
+  
       <RRRRRR/>
 
         
@@ -271,43 +220,6 @@ Ev bitkisinin evə səyahəti
         <RRRRRR/>
 
 
-        {/* <Swiper
-          modules={[Navigation, Pagination, Scrollbar, A11y]}
-          spaceBetween={10}
-          slidesPerView={3}
-          navigation
-          onSlideChange={() => console.log("slide change")}
-          onSwiper={(swiper) => console.log(swiper)}
-        >
-          {select.map((index) => (
-            <SwiperSlide key={index.id} className={style1.div2}>
-              <div className={style1.cardDiv1}>
-                <div className={style1.img}>
-                  <Link to={`/item/${index.id}`}>
-                    <img src={index.img} alt="" />
-                    <img className={style1.block} src={index.img2} />
-                  </Link>
-                </div>
-                <div className={style1.cardMini1}>
-                  <h3>{index.name}</h3>
-                  <p>
-                    {index.price}
-                    <i class="fa-solid fa-manat-sign"></i>
-                  </p>
-                  <button
-                    onClick={() => handleSebet(index)}
-                    className={style1.btn2}
-                  >
-                    <p>
-                      {" "}
-                      <i class="fa-solid fa-cart-shopping"></i> Sebete elave et
-                    </p>
-                  </button>
-                </div>
-              </div>
-            </SwiperSlide>
-          ))}
-        </Swiper> */}
 
       </div>
     

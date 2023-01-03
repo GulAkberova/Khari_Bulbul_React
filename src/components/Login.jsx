@@ -5,12 +5,12 @@ import axios from "axios";
 import { useState } from "react";
 import { type } from "@testing-library/user-event/dist/type";
 import { NavLink } from "react-router-dom";
-import video4 from "./video/videoregis.mp4";
+// import video4 from "./video/videoregis.mp4";
+
 
 function Login() {
   const {
-    register,
-    handleSubmit,
+    register,handleSubmit,
     formState: { errors },
   } = useForm();
   const [success, setSuccess] = useState(false);
